@@ -1,6 +1,6 @@
 {
   "pandoc": {
-    "title": "Manuscript Title",
+    "title": "Representation Matters: Better Writing Through Diversity",
     "keywords": [
       "markdown",
       "publishing",
@@ -9,10 +9,10 @@
     "lang": "en-US",
     "date-meta": "2020-10-24",
     "author-meta": [
-      "John Doe",
+      "Jeffrey M. Perkel",
       "Jane Roe"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Manuscript Title\" />\n<meta name=\"citation_title\" content=\"Manuscript Title\" />\n<meta property=\"og:title\" content=\"Manuscript Title\" />\n<meta property=\"twitter:title\" content=\"Manuscript Title\" />\n<meta name=\"dc.date\" content=\"2020-10-24\" />\n<meta name=\"citation_publication_date\" content=\"2020-10-24\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta property=\"og:url\" content=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta property=\"twitter:url\" content=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta name=\"citation_pdf_url\" content=\"https://jperkel.github.io/sciwridiversity/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://jperkel.github.io/sciwridiversity/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://jperkel.github.io/sciwridiversity/v/e8b5c3455c47b02006527cada1e47b4ae0dd1439/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://jperkel.github.io/sciwridiversity/v/e8b5c3455c47b02006527cada1e47b4ae0dd1439/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://jperkel.github.io/sciwridiversity/v/e8b5c3455c47b02006527cada1e47b4ae0dd1439/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Representation Matters: Better Writing Through Diversity\" />\n<meta name=\"citation_title\" content=\"Representation Matters: Better Writing Through Diversity\" />\n<meta property=\"og:title\" content=\"Representation Matters: Better Writing Through Diversity\" />\n<meta property=\"twitter:title\" content=\"Representation Matters: Better Writing Through Diversity\" />\n<meta name=\"dc.date\" content=\"2020-10-24\" />\n<meta name=\"citation_publication_date\" content=\"2020-10-24\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Jeffrey M. Perkel\" />\n<meta name=\"twitter:creator\" content=\"@j_perkel\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta property=\"og:url\" content=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta property=\"twitter:url\" content=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta name=\"citation_pdf_url\" content=\"https://jperkel.github.io/sciwridiversity/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://jperkel.github.io/sciwridiversity/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://jperkel.github.io/sciwridiversity/v/eb8ef7451ae73306abaffba7f4ccfae2d3142ffe/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://jperkel.github.io/sciwridiversity/v/eb8ef7451ae73306abaffba7f4ccfae2d3142ffe/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://jperkel.github.io/sciwridiversity/v/eb8ef7451ae73306abaffba7f4ccfae2d3142ffe/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -25,21 +25,12 @@
     "date": "October 24, 2020",
     "authors": [
       {
-        "github": "johndoe",
-        "name": "John Doe",
-        "initials": "JD",
-        "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "twitter": "johndoe",
-        "email": "john.doe@something.com",
-        "affiliations": [
-          "Department of Something, University of Whatever"
-        ],
-        "funders": [
-          "Grant XXXXXXXX"
-        ],
-        "affiliation_numbers": [
-          1
-        ]
+        "github": "jperkel",
+        "name": "Jeffrey M. Perkel",
+        "initials": "JMP",
+        "twitter": "j_perkel",
+        "email": "jeffrey.perkel@gmail.com",
+        "affiliation_numbers": []
       },
       {
         "github": "janeroe",
@@ -72,19 +63,19 @@
       "repo_slug": "jperkel/sciwridiversity",
       "repo_owner": "jperkel",
       "repo_name": "sciwridiversity",
-      "commit": "e8b5c3455c47b02006527cada1e47b4ae0dd1439",
-      "triggering_commit": "e8b5c3455c47b02006527cada1e47b4ae0dd1439",
-      "build_url": "https://github.com/jperkel/sciwridiversity/commit/e8b5c3455c47b02006527cada1e47b4ae0dd1439/checks",
+      "commit": "eb8ef7451ae73306abaffba7f4ccfae2d3142ffe",
+      "triggering_commit": "eb8ef7451ae73306abaffba7f4ccfae2d3142ffe",
+      "build_url": "https://github.com/jperkel/sciwridiversity/commit/eb8ef7451ae73306abaffba7f4ccfae2d3142ffe/checks",
       "job_url": "https://github.com/jperkel/sciwridiversity/runs/run3"
     },
     "html_url": "https://jperkel.github.io/sciwridiversity/",
     "pdf_url": "https://jperkel.github.io/sciwridiversity/manuscript.pdf",
-    "html_url_versioned": "https://jperkel.github.io/sciwridiversity/v/e8b5c3455c47b02006527cada1e47b4ae0dd1439/",
-    "pdf_url_versioned": "https://jperkel.github.io/sciwridiversity/v/e8b5c3455c47b02006527cada1e47b4ae0dd1439/manuscript.pdf",
+    "html_url_versioned": "https://jperkel.github.io/sciwridiversity/v/eb8ef7451ae73306abaffba7f4ccfae2d3142ffe/",
+    "pdf_url_versioned": "https://jperkel.github.io/sciwridiversity/v/eb8ef7451ae73306abaffba7f4ccfae2d3142ffe/manuscript.pdf",
     "manubot_version": "0.3.1",
     "rootstock_commit": "e8b5c3455c47b02006527cada1e47b4ae0dd1439",
     "manuscript_stats": {
-      "word_count": 1404
+      "word_count": 246
     }
   }
 }
