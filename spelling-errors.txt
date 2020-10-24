@@ -97,7 +97,7 @@ tipsheet
 TK
 TLDR
 tokenizing
-tonl
+TONL
 tos
 Truong
 Tyrrell
