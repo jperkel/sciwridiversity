@@ -49,11 +49,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://jperkel.github.io/sciwridiversity/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://jperkel.github.io/sciwridiversity/v/5d1e31923f313c6dd20796dc4da63a9a2fedfaae/" />
+  <link rel="alternate" type="text/html" href="https://jperkel.github.io/sciwridiversity/v/fb92468f698a496b798fc65cc218e59523304f21/" />
 
-  <meta name="manubot_html_url_versioned" content="https://jperkel.github.io/sciwridiversity/v/5d1e31923f313c6dd20796dc4da63a9a2fedfaae/" />
+  <meta name="manubot_html_url_versioned" content="https://jperkel.github.io/sciwridiversity/v/fb92468f698a496b798fc65cc218e59523304f21/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://jperkel.github.io/sciwridiversity/v/5d1e31923f313c6dd20796dc4da63a9a2fedfaae/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://jperkel.github.io/sciwridiversity/v/fb92468f698a496b798fc65cc218e59523304f21/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -85,9 +85,9 @@ title: 'Representation Matters: Better Writing Through Diversity'
 
 <small><em>
 This manuscript
-([permalink](https://jperkel.github.io/sciwridiversity/v/5d1e31923f313c6dd20796dc4da63a9a2fedfaae/))
+([permalink](https://jperkel.github.io/sciwridiversity/v/fb92468f698a496b798fc65cc218e59523304f21/))
 was automatically generated
-from [jperkel/sciwridiversity@5d1e319](https://github.com/jperkel/sciwridiversity/tree/5d1e31923f313c6dd20796dc4da63a9a2fedfaae)
+from [jperkel/sciwridiversity@fb92468](https://github.com/jperkel/sciwridiversity/tree/fb92468f698a496b798fc65cc218e59523304f21)
 on October 24, 2020.
 </em></small>
 
@@ -160,7 +160,7 @@ Moderator: Doris Truong ([\@DorisTruong](https://twitter.com/DorisTruong))
 | Religion             | Work experience       | Intersectionality   |  
 | Military status      | Physical (dis)ability |                     |  
 
-* _These 6 characteristics are Fault Lines, a construct from the [Maynard Institute](https://mije.org/) that helps people identify their unconscious bias._
+* _(*) These 6 characteristics are Fault Lines, a construct from the [Maynard Institute](https://mije.org/) that helps people identify their unconscious bias._
 
 👇👇👇 **[Thoughts from breakout attendees]** 👇👇👇
 
