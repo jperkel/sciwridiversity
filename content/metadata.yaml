@@ -1,21 +1,16 @@
 ---
-title: "Manuscript Title"
+title: "Representation Matters: Better Writing Through Diversity"
 keywords:
   - markdown
   - publishing
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
-    affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
+  - github: jperkel
+    name: Jeffrey M. Perkel
+    initials: JMP
+    twitter: j_perkel
+    email: jeffrey.perkel@gmail.com
   - github: janeroe
     name: Jane Roe
     initials: JR
