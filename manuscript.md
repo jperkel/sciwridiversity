@@ -11,7 +11,7 @@ author-meta:
 bibliography:
 - content/manual-references.json
 date-meta: '2020-10-24'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Representation Matters: Better Writing Through Diversity\" />\n<meta name=\"citation_title\" content=\"Representation Matters: Better Writing Through Diversity\" />\n<meta property=\"og:title\" content=\"Representation Matters: Better Writing Through Diversity\" />\n<meta property=\"twitter:title\" content=\"Representation Matters: Better Writing Through Diversity\" />\n<meta name=\"dc.date\" content=\"2020-10-24\" />\n<meta name=\"citation_publication_date\" content=\"2020-10-24\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Steve Bien-Aim\xE9\" />\n<meta name=\"twitter:creator\" content=\"@Steve_BienAime\" />\n<meta name=\"citation_author\" content=\"Rodrigo P\xE9rez Ortega\" />\n<meta name=\"twitter:creator\" content=\"@rpocisv\" />\n<meta name=\"citation_author\" content=\"Jeffrey M. Perkel\" />\n<meta name=\"twitter:creator\" content=\"@j_perkel\" />\n<meta name=\"citation_author\" content=\"Kendall Powell\" />\n<meta name=\"twitter:creator\" content=\"@KendallSciWri\" />\n<meta name=\"citation_author\" content=\"Doris Truong\" />\n<meta name=\"twitter:creator\" content=\"@DorisTruong\" />\n<meta name=\"citation_author\" content=\"Kelly Tyrrell\" />\n<meta name=\"twitter:creator\" content=\"@kellyperil\" />\n<meta name=\"citation_author\" content=\"Wudan Yan\" />\n<meta name=\"twitter:creator\" content=\"@wudanyan\" />\n<meta name=\"citation_author\" content=\"Sarah Zielinski\" />\n<meta name=\"twitter:creator\" content=\"@SarahZielinski\" />\n<link rel=\"canonical\" href=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta property=\"og:url\" content=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta property=\"twitter:url\" content=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta name=\"citation_pdf_url\" content=\"https://jperkel.github.io/sciwridiversity/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://jperkel.github.io/sciwridiversity/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://jperkel.github.io/sciwridiversity/v/79a3827c540e67b32140389f280b241b4166e934/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://jperkel.github.io/sciwridiversity/v/79a3827c540e67b32140389f280b241b4166e934/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://jperkel.github.io/sciwridiversity/v/79a3827c540e67b32140389f280b241b4166e934/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Representation Matters: Better Writing Through Diversity\" />\n<meta name=\"citation_title\" content=\"Representation Matters: Better Writing Through Diversity\" />\n<meta property=\"og:title\" content=\"Representation Matters: Better Writing Through Diversity\" />\n<meta property=\"twitter:title\" content=\"Representation Matters: Better Writing Through Diversity\" />\n<meta name=\"dc.date\" content=\"2020-10-24\" />\n<meta name=\"citation_publication_date\" content=\"2020-10-24\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Steve Bien-Aim\xE9\" />\n<meta name=\"twitter:creator\" content=\"@Steve_BienAime\" />\n<meta name=\"citation_author\" content=\"Rodrigo P\xE9rez Ortega\" />\n<meta name=\"twitter:creator\" content=\"@rpocisv\" />\n<meta name=\"citation_author\" content=\"Jeffrey M. Perkel\" />\n<meta name=\"twitter:creator\" content=\"@j_perkel\" />\n<meta name=\"citation_author\" content=\"Kendall Powell\" />\n<meta name=\"twitter:creator\" content=\"@KendallSciWri\" />\n<meta name=\"citation_author\" content=\"Doris Truong\" />\n<meta name=\"twitter:creator\" content=\"@DorisTruong\" />\n<meta name=\"citation_author\" content=\"Kelly Tyrrell\" />\n<meta name=\"twitter:creator\" content=\"@kellyperil\" />\n<meta name=\"citation_author\" content=\"Wudan Yan\" />\n<meta name=\"twitter:creator\" content=\"@wudanyan\" />\n<meta name=\"citation_author\" content=\"Sarah Zielinski\" />\n<meta name=\"twitter:creator\" content=\"@SarahZielinski\" />\n<link rel=\"canonical\" href=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta property=\"og:url\" content=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta property=\"twitter:url\" content=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta name=\"citation_pdf_url\" content=\"https://jperkel.github.io/sciwridiversity/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://jperkel.github.io/sciwridiversity/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://jperkel.github.io/sciwridiversity/v/e59e1f3582773428b393a4a3f0cc2326ce7b33a1/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://jperkel.github.io/sciwridiversity/v/e59e1f3582773428b393a4a3f0cc2326ce7b33a1/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://jperkel.github.io/sciwridiversity/v/e59e1f3582773428b393a4a3f0cc2326ce7b33a1/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - markdown
 - publishing
@@ -31,9 +31,9 @@ title: 'Representation Matters: Better Writing Through Diversity'
 
 <small><em>
 This manuscript
-([permalink](https://jperkel.github.io/sciwridiversity/v/79a3827c540e67b32140389f280b241b4166e934/))
+([permalink](https://jperkel.github.io/sciwridiversity/v/e59e1f3582773428b393a4a3f0cc2326ce7b33a1/))
 was automatically generated
-from [jperkel/sciwridiversity@79a3827](https://github.com/jperkel/sciwridiversity/tree/79a3827c540e67b32140389f280b241b4166e934)
+from [jperkel/sciwridiversity@e59e1f3](https://github.com/jperkel/sciwridiversity/tree/e59e1f3582773428b393a4a3f0cc2326ce7b33a1)
 on October 24, 2020.
 </em></small>
 
@@ -99,7 +99,7 @@ Please feel free to suggest additions to jeffrey dot perkel at gmail dot com.
 
 
 ## Prompt 1: When does it make sense to specifically include diversity and representation angles of sources and subjects in stories?
-Moderator: Rodrigo Pérez Ortega
+Moderator: Rodrigo Pérez Ortega (\@rpocisv)
 
 
 Non-profit’s [www.SciCommDiversity.org](www.SciCommDiversity.org) Fellowship connects diversity journalism organizations members (Natl Assoc of Black Journo, NAHispanicJ, NativeAJA) to NASW community. 
@@ -113,9 +113,9 @@ If the person decides to go that route (of talking about their background), cont
 
 When presented with choices of sources and angles, actively choose inclusivity.
 
-As an ally reporting on a minority source/story, it will be difficult to please every possible reader. 
-* Depend on allies to tell the story if/when the reporter isn’t a member of the community.  
-* Do try to find an ambassador/liaison to the community you’re reporting on to build trust.  
+As an ally reporting on a minority source/story, it will be difficult to please every possible reader.  
+- Depend on allies to tell the story if/when the reporter isn’t a member of the community.  
+- Do try to find an ambassador/liaison to the community you’re reporting on to build trust.  
 
 **Question**: how to approach identity when it’s not the main subject of the story?
 
@@ -138,13 +138,13 @@ I’ve found the Inclusive SciComm community to be a great place to learn about 
 ## Prompt 2: What aspects of diversity are science writers neglecting?
 Moderator: Doris Truong (&#64;DorisTruong)
 
-**Takeaways**:
-* Ask sources whether they’re open to sharing demographic information.  
-* Make sure tracking diversity of sources is embedded in your business practices. Here’s a [sample form from America Amplified[(https://docs.google.com/forms/d/1h0b6t5FK2xUv6YZZxesFF2ikOP65IhwwHU3ZVQccMfI/edit)]. 
-* Push people to direct you to more diverse sources. Don’t let them stop with the usual suspect(s).  
-* Look carefully at study design and interpretation of disparate results.  
+**Takeaways**:  
+- Ask sources whether they’re open to sharing demographic information.  
+- Make sure tracking diversity of sources is embedded in your business practices. Here’s a [sample form from America Amplified](https://docs.google.com/forms/d/1h0b6t5FK2xUv6YZZxesFF2ikOP65IhwwHU3ZVQccMfI/edit). 
+- Push people to direct you to more diverse sources. Don’t let them stop with the usual suspect(s).  
+- Look carefully at study design and interpretation of disparate results.  
 
-**Aspects of diversity**, from [Poynter’s Doris Truong](https://www.poynter.org/member/doris-truong/)
+**Aspects of diversity**, from [Poynter’s Doris Truong](https://www.poynter.org/member/doris-truong/)  
 Race/Ethnicity*  
 Class/Socioeconomic*  
 Gender*  
@@ -169,7 +169,7 @@ Criminal background
 Body shape  
 Intersectionality  
 
-_(*) These 6 characteristics are Fault Lines, a construct from the [Maynard Institute](https://mije.org/) that helps people identify their unconscious bias._
+* - *These 6 characteristics are Fault Lines, a construct from the [Maynard Institute](https://mije.org/) that helps people identify their unconscious bias.*
 
 👇👇👇 **[Thoughts from breakout attendees]** 👇👇👇
 
@@ -225,15 +225,107 @@ Re: immigration status, I used to write a lot about student experiences and inte
 
 Has anyone found a great resource for images of members of underrepresented groups? That is so important but can also be very time intensive.  
 being very careful about not tokenizing people by using images out of the context in which they were intended.  
-* [https://www.blackillustrations.com/illustrations/the-office-hustle-illustration-pack-official](https://www.blackillustrations.com/illustrations/the-office-hustle-illustration-pack-official)  
-* [Unsplash](https://unsplash.com/) (caveat: double-check photo permissions; you might want to [reverse image search](https://tineye.com/) to be sure someone’s IP isn’t being violated)  
-* [https://tonl.co/](https://tonl.co/)  
-* [broadlygenderphotos.vice.com](https://broadlygenderphotos.vice.com/)  
-* [jopwellcollection.jopwell.com/internedition/](https://jopwellcollection.jopwell.com/internedition/)  
-* [www.flickr.com/photos/wocintechchat/](www.flickr.com/photos/wocintechchat/)  
-* [www.nappy.co/](www.nappy.co/)  
-* [www.gettyimages.com/collections/leanin](www.gettyimages.com/collections/leanin)  
-* [burst.shopify.com/](https://burst.shopify.com/)  
+- [https://www.blackillustrations.com/illustrations/the-office-hustle-illustration-pack-official](https://www.blackillustrations.com/illustrations/the-office-hustle-illustration-pack-official)  
+- [Unsplash](https://unsplash.com/) (caveat: double-check photo permissions; you might want to [reverse image search](https://tineye.com/) to be sure someone’s IP isn’t being violated)  
+- [https://tonl.co/](https://tonl.co/)  
+- [broadlygenderphotos.vice.com](https://broadlygenderphotos.vice.com/)  
+- [jopwellcollection.jopwell.com/internedition/](https://jopwellcollection.jopwell.com/internedition/)  
+- [www.flickr.com/photos/wocintechchat/](www.flickr.com/photos/wocintechchat/)  
+- [www.nappy.co/](www.nappy.co/)  
+- [www.gettyimages.com/collections/leanin](www.gettyimages.com/collections/leanin)  
+- [burst.shopify.com/](https://burst.shopify.com/)  
+
+## Prompt 3: How can editors and writers work together to ensure more representative reporting?
+Moderator: Sarah Zielinski (\@SarahZielinski)
+
+(From Sarah, moderator) At *[Science News for Students](https://www.sciencenewsforstudents.org/)*, we do several things in this venue. For years we have had a requirement that features include as a source at least one woman or person of color. Our audience is young, and we have felt that it is particularly important that they see that science has a place for everyone. In 2018, we began tracking the diversity of our sources in an ad hoc manner. We use that data in house only to track our progress. This year, we asked that our writers help contribute to our diversity tracking effort, and some of them now provide that information (via a Google form) for the stories they report. To help my writers in their efforts, I provided a document with suggestions about how to find more diverse sources. It also gave a script that writers could use when speaking with sources so that they could collect demographic data as part of their reporting. (Other than the requirement for features, the rest is voluntary.)
+
+**Finding sources outside the US**
+
+In the case of stories that take place in countries outside the United States, always include the testimonies of local researchers. Not just from the US.
+
+Database of Hispanic/LatinX women scientists: [https://cientificas.amit-es.org/](https://cientificas.amit-es.org/) 
+
+A project that profiles Indian women in STEM: [https://thelifeofscience.com/category/people/science/](https://thelifeofscience.com/category/people/science/)
+
+Facebook group showcasing the work of Mexican women scientists. I’m sure many of them would be glad to be consulted if needed
+[https://www.facebook.com/cientificasmx/](https://www.facebook.com/cientificasmx/) 
+
+There is also a Mexican association of science writers and journalists (Red Mexicana de Periodistas de Ciencia). This group may help you connect with sources at least in Mexico. [https://redmpc.wordpress.com/](https://redmpc.wordpress.com/)
+
+This is the Argentinian network of science journalism. [https://radpc.org/](https://radpc.org/)
+
+If you’re doing reporting in another country, contact a local science writer. They are often willing to help you figure out the lay of the land.
+
+**Other suggestions from the group:**
+
+It’s important to start a network early of people that you can reach out to. When you’re working under pressure, it’s hard to do this on the fly.
+
+Editors could check in with who the sources are. They can’t just rely on the writer. 
+
+Editors should seriously consider whether a deadline is hard or not. If writers know that an editor might be able move a deadline, it makes it easier to make finding diverse sources a priority.
+
+When writing about a paper, look down the list of authors. There are often younger and more diverse people farther down the list. Also ask the first author for people who can comment.
+
+Instead of starting with your story and then searching for diverse sources, you can start with the sources and then find the story. This is especially important when dealing with an overwhelmingly white area (whether geographically or scientifically).
+
+[Eos](https://eos.org/) did diversity tracking for a year and has now switched to sending those sources a survey to ask them directly. The advantages of this include that data collection is more accurate and you can also ask things like if a source is early career, LGBTQIA, etc. Here is the survey (we have taken out the early career question at the moment, because the definition is fuzzy… welcome any thoughts on that): [https://docs.google.com/forms/d/e/1FAIpQLSelvtFUtB9IEaKz6LiJx_pFKnHrxZvOPRl4g4oDi8DxirS__g/viewform](https://docs.google.com/forms/d/e/1FAIpQLSelvtFUtB9IEaKz6LiJx_pFKnHrxZvOPRl4g4oDi8DxirS__g/viewform) 
+
+Diverse sources (beta):
+[https://diversesources.org](https://diversesources.org) 
+
+It’s important for an editor to have that five-minute discussion in the beginning, at story assignment, about expectations, which should include sources and voices that a reporter includes in the story. “We all need a reminder.”
+
+500 women scientists ([website](https://500womenscientists.org/)) has always been a good source for me.
+
+Twitter sometimes has Black in ____ weeks -- I try to follow and make a spreadsheet of new scholars and their expertise/contact for future stories.
+
+There are also some smaller groups like “[Ladies of Landsat](https://twitter.com/LadiesOfLandsat)” that can be good sources.
+
+## Prompt 4: What tools, resources, and strategies can you use to gauge and improve representation in your writing and reporting?
+Moderator: Steve Bien-Aimé (\@Steve_BienAime)
+
+We have to devote time to diversity
+
+Monitor your diversity statistics. Then review them regularly. Every month? Every quarter? Every six months?
+
+The Native American Journalists Association is a good source for media reporting guides about American Indian communities and culture. [https://najanewsroom.com/](https://najanewsroom.com/) 
+
+* What are the stories you’re covering? That impacts the people interviewed.
+
+* Seek out more voices from multiple disciplines.
+
+* Who are the post-docs or research assistants? Try doing a group interview to avoid the PI dominating the narratives.
+
+* It also helps to have questions prepared beforehand that involve every person in the team (provided that there is some prior knowledge about the roles of everyone)
+
+* Journalists tend to interview the same folks … and these practices tend to impede diversity.
+
+* We look for experts at smaller institutions, too.
+
+* For press officers who can, sometimes you can track down a reserved grad student/postdoc in-person after the group interview with a few follow-up questions.
+
+* Do the universities have diverse people? It’s not all on the PIOs. What is our role in diversity Initiatives?
+
+* Identify diverse sources but also sources (who may be white men) who care about representation who will help you find others
+    * Ask experts for other sources, perhaps even for diversity.
+
+* Also look toward specialized journals for experts because the main journals often marginalize work in diversity -- [https://academic.oup.com/joc/article/68/2/254/4958972](https://academic.oup.com/joc/article/68/2/254/4958972) 
+
+* Know there is visible and invisible diversity
+    * Visible: Race, sex  
+    * Invisible: SES, region, sexual orientation  
+
+* We need to think about diversity tracking in an holistic way
+
+* Work on making experts comfortable
+
+* Promote the work of various colleagues -- embrace this ethic in diversity training
+
+* **Question**: has anyone found a great resource for images of members of underrepresented groups? That is so important but can also be very time intensive. We currently use Shutterstock.
+    * tonl specializes in diverse stock photography: [https://tonl.co/](https://tonl.co/)  
+    * There’s a new resource of free images of Black professionals. Just a sec.
+[https://www.blackillustrations.com/illustrations/the-office-hustle-illustration-pack-official](https://www.blackillustrations.com/illustrations/the-office-hustle-illustration-pack-official)  
 
 ## References {.page_break_before}
 
