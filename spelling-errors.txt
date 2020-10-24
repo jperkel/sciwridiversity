@@ -46,6 +46,7 @@ jperkel
 Kazmier
 kellyperil
 KendallSciWri
+KendallSciWrite
 LatinX
 LatinxChem
 LGBTQ
@@ -67,7 +68,7 @@ ORNL’s
 othered
 Pérez
 Periodistas
-perkel
+Perkel
 PIO
 PIOs
 pls
@@ -98,7 +99,7 @@ tipsheet
 TK
 TLDR
 tokenizing
-tonl
+TONL
 tos
 Truong
 Tyrrell

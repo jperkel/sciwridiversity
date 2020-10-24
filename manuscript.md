@@ -11,7 +11,7 @@ author-meta:
 bibliography:
 - content/manual-references.json
 date-meta: '2020-10-24'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Representation Matters: Better Writing Through Diversity\" />\n<meta name=\"citation_title\" content=\"Representation Matters: Better Writing Through Diversity\" />\n<meta property=\"og:title\" content=\"Representation Matters: Better Writing Through Diversity\" />\n<meta property=\"twitter:title\" content=\"Representation Matters: Better Writing Through Diversity\" />\n<meta name=\"dc.date\" content=\"2020-10-24\" />\n<meta name=\"citation_publication_date\" content=\"2020-10-24\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Steve Bien-Aim\xE9\" />\n<meta name=\"twitter:creator\" content=\"@Steve_BienAime\" />\n<meta name=\"citation_author\" content=\"Rodrigo P\xE9rez Ortega\" />\n<meta name=\"twitter:creator\" content=\"@rpocisv\" />\n<meta name=\"citation_author\" content=\"Jeffrey M. Perkel\" />\n<meta name=\"twitter:creator\" content=\"@j_perkel\" />\n<meta name=\"citation_author\" content=\"Kendall Powell\" />\n<meta name=\"twitter:creator\" content=\"@KendallSciWri\" />\n<meta name=\"citation_author\" content=\"Doris Truong\" />\n<meta name=\"twitter:creator\" content=\"@DorisTruong\" />\n<meta name=\"citation_author\" content=\"Kelly Tyrrell\" />\n<meta name=\"twitter:creator\" content=\"@kellyperil\" />\n<meta name=\"citation_author\" content=\"Wudan Yan\" />\n<meta name=\"twitter:creator\" content=\"@wudanyan\" />\n<meta name=\"citation_author\" content=\"Sarah Zielinski\" />\n<meta name=\"twitter:creator\" content=\"@SarahZielinski\" />\n<link rel=\"canonical\" href=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta property=\"og:url\" content=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta property=\"twitter:url\" content=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta name=\"citation_pdf_url\" content=\"https://jperkel.github.io/sciwridiversity/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://jperkel.github.io/sciwridiversity/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://jperkel.github.io/sciwridiversity/v/b7ce9e49a6ee5e762b86965bd32ec27d34d54099/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://jperkel.github.io/sciwridiversity/v/b7ce9e49a6ee5e762b86965bd32ec27d34d54099/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://jperkel.github.io/sciwridiversity/v/b7ce9e49a6ee5e762b86965bd32ec27d34d54099/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Representation Matters: Better Writing Through Diversity\" />\n<meta name=\"citation_title\" content=\"Representation Matters: Better Writing Through Diversity\" />\n<meta property=\"og:title\" content=\"Representation Matters: Better Writing Through Diversity\" />\n<meta property=\"twitter:title\" content=\"Representation Matters: Better Writing Through Diversity\" />\n<meta name=\"dc.date\" content=\"2020-10-24\" />\n<meta name=\"citation_publication_date\" content=\"2020-10-24\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Steve Bien-Aim\xE9\" />\n<meta name=\"twitter:creator\" content=\"@Steve_BienAime\" />\n<meta name=\"citation_author\" content=\"Rodrigo P\xE9rez Ortega\" />\n<meta name=\"twitter:creator\" content=\"@rpocisv\" />\n<meta name=\"citation_author\" content=\"Jeffrey M. Perkel\" />\n<meta name=\"twitter:creator\" content=\"@j_perkel\" />\n<meta name=\"citation_author\" content=\"Kendall Powell\" />\n<meta name=\"twitter:creator\" content=\"@KendallSciWri\" />\n<meta name=\"citation_author\" content=\"Doris Truong\" />\n<meta name=\"twitter:creator\" content=\"@DorisTruong\" />\n<meta name=\"citation_author\" content=\"Kelly Tyrrell\" />\n<meta name=\"twitter:creator\" content=\"@kellyperil\" />\n<meta name=\"citation_author\" content=\"Wudan Yan\" />\n<meta name=\"twitter:creator\" content=\"@wudanyan\" />\n<meta name=\"citation_author\" content=\"Sarah Zielinski\" />\n<meta name=\"twitter:creator\" content=\"@SarahZielinski\" />\n<link rel=\"canonical\" href=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta property=\"og:url\" content=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta property=\"twitter:url\" content=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta name=\"citation_pdf_url\" content=\"https://jperkel.github.io/sciwridiversity/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://jperkel.github.io/sciwridiversity/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://jperkel.github.io/sciwridiversity/v/f3d511ff84fdd7b3fc041b2b5cde461919a8e966/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://jperkel.github.io/sciwridiversity/v/f3d511ff84fdd7b3fc041b2b5cde461919a8e966/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://jperkel.github.io/sciwridiversity/v/f3d511ff84fdd7b3fc041b2b5cde461919a8e966/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - markdown
 - publishing
@@ -31,9 +31,9 @@ title: 'Representation Matters: Better Writing Through Diversity'
 
 <small><em>
 This manuscript
-([permalink](https://jperkel.github.io/sciwridiversity/v/b7ce9e49a6ee5e762b86965bd32ec27d34d54099/))
+([permalink](https://jperkel.github.io/sciwridiversity/v/f3d511ff84fdd7b3fc041b2b5cde461919a8e966/))
 was automatically generated
-from [jperkel/sciwridiversity@b7ce9e4](https://github.com/jperkel/sciwridiversity/tree/b7ce9e49a6ee5e762b86965bd32ec27d34d54099)
+from [jperkel/sciwridiversity@f3d511f](https://github.com/jperkel/sciwridiversity/tree/f3d511ff84fdd7b3fc041b2b5cde461919a8e966)
 on October 24, 2020.
 </em></small>
 
@@ -99,7 +99,7 @@ Please feel free to suggest additions to jeffrey dot perkel at gmail dot com.
 
 
 ## Prompt 1: When does it make sense to specifically include diversity and representation angles of sources and subjects in stories?
-Moderator: Rodrigo Pérez Ortega (\@rpocisv)
+Moderator: Rodrigo Pérez Ortega ([\@rpocisv](https://twitter.com/rpocisv))
 
 
 Non-profit’s [www.SciCommDiversity.org](www.SciCommDiversity.org) Fellowship connects diversity journalism organizations members (Natl Assoc of Black Journo, NAHispanicJ, NativeAJA) to NASW community. 
@@ -107,7 +107,7 @@ Non-profit’s [www.SciCommDiversity.org](www.SciCommDiversity.org) Fellowship c
 Overview of fellowship program published: [https://www.frontiersin.org/articles/10.3389/fcomm.2020.00051/full](https://www.frontiersin.org/articles/10.3389/fcomm.2020.00051/full). Article has examples of how to include diversity angle to science reporting (for _DiverseScholar.org_ magazine [see [https://communitypartners.org/project/diverse-scholar](https://communitypartners.org/project/diverse-scholar)]).
 Thx to NASW Idea Grant funding for catalyzing fellowship.
 
-FYI, if searching for diversity STEM communities, pls see Alberto’s non-profit's Stakeholders page w/ many non-profits (eg NOBCChE Black Chemists, SACNAS Latinx & Native Americans), events (eg Tapia Computing, ABRCMS Biomedical Minority) and now new online communities (#LatinxChem, #BlackAndSTEM, [\@500QueerSci](https://twitter.com/500queersci)) [https://www.minoritypostdoc.org/stakeholders](https://www.minoritypostdoc.org/stakeholders) 
+FYI, if searching for diversity STEM communities, pls see Alberto’s non-profit's Stakeholders page w/ many non-profits (eg NOBCChE Black Chemists, SACNAS Latinx & Native Americans), events (eg Tapia Computing, ABRCMS Biomedical Minority) and now new online communities ([#LatinxChem](https://twitter.com/hashtag/LatinXChem), [#BlackAndSTEM](https://twitter.com/hashtag/BlackandSTEM), [\@500QueerSci](https://twitter.com/500queersci)) [https://www.minoritypostdoc.org/stakeholders](https://www.minoritypostdoc.org/stakeholders) 
 
 If the person decides to go that route (of talking about their background), continue the conversation, even if you didn’t plan on covering that specifically through that angle. Ask questions that continue to move in that direction.
 
@@ -137,7 +137,7 @@ I’ve found the Inclusive SciComm community to be a great place to learn about 
 
 
 ## Prompt 2: What aspects of diversity are science writers neglecting?
-Moderator: Doris Truong (&#64;DorisTruong)
+Moderator: Doris Truong ([\@DorisTruong](https://twitter.com/DorisTruong))
 
 **Takeaways**:  
 
@@ -148,20 +148,20 @@ Moderator: Doris Truong (&#64;DorisTruong)
 
 
 **Aspects of diversity**, from [Poynter’s Doris Truong](https://www.poynter.org/member/doris-truong/)  
-|  Col 1      |  Col 2      |  Col 3      |
-| :---- | :----: | ----: |
-| Race/Ethnicity* | Intro-/extro-vert | Neurodiversity |
-| Class/Socioeconomic* | Housing status | Passport? |
-| Gender* | Language(s) | Political belief |
-| Age/Generation* | Family status | Education |
-| Sexual orientation* | Nationality | Criminal background |
-| Geography* | Immigration status | Body shape |
-| Religion | Work experience | Intersectionality |
-| Military status | Physical (dis)ability | |
+|  Col 1      |  Col 2      |  Col 3      |  
+| :---- | :----: | ----: |  
+| Race/Ethnicity* | Intro-/extro-vert | Neurodiversity |  
+| Class/Socioeconomic* | Housing status | Passport? |  
+| Gender* | Language(s) | Political belief |  
+| Age/Generation* | Family status | Education |  
+| Sexual orientation* | Nationality | Criminal background |  
+| Geography* | Immigration status | Body shape |  
+| Religion | Work experience | Intersectionality |  
+| Military status | Physical (dis)ability | |  
 
 * _These 6 characteristics are Fault Lines, a construct from the [Maynard Institute](https://mije.org/) that helps people identify their unconscious bias._
 
-### 👇👇👇 [Thoughts from breakout attendees] 👇👇👇
+👇👇👇 **[Thoughts from breakout attendees]** 👇👇👇
 
 Body diversity is a subject that’s lacking in coverage - anything from disability to different body shapes. We focus on including all races, but representation from all races are still predominantly physically fit individuals.
 
@@ -235,7 +235,7 @@ being very careful about not tokenizing people by using images out of the contex
 * [burst.shopify.com/](https://burst.shopify.com/)  
 
 ## Prompt 3: How can editors and writers work together to ensure more representative reporting?
-Moderator: Sarah Zielinski (\@SarahZielinski)
+Moderator: Sarah Zielinski ([\@SarahZielinski](https://twitter.com/SarahZielinski))
 
 (From Sarah, moderator) At *[Science News for Students](https://www.sciencenewsforstudents.org/)*, we do several things in this venue. For years we have had a requirement that features include as a source at least one woman or person of color. Our audience is young, and we have felt that it is particularly important that they see that science has a place for everyone. In 2018, we began tracking the diversity of our sources in an ad hoc manner. We use that data in house only to track our progress. This year, we asked that our writers help contribute to our diversity tracking effort, and some of them now provide that information (via a Google form) for the stories they report. To help my writers in their efforts, I provided a document with suggestions about how to find more diverse sources. It also gave a script that writers could use when speaking with sources so that they could collect demographic data as part of their reporting. (Other than the requirement for features, the rest is voluntary.)
 
@@ -282,7 +282,7 @@ Twitter sometimes has Black in ____ weeks -- I try to follow and make a spreadsh
 There are also some smaller groups like “[Ladies of Landsat](https://twitter.com/LadiesOfLandsat)” that can be good sources.
 
 ## Prompt 4: What tools, resources, and strategies can you use to gauge and improve representation in your writing and reporting?
-Moderator: Steve Bien-Aimé (\@Steve_BienAime)
+Moderator: Steve Bien-Aimé ([\@Steve_BienAime](https://twitter.com/Steve_BienAime))
 
 We have to devote time to diversity
 
@@ -327,7 +327,7 @@ The Native American Journalists Association is a good source for media reporting
 [https://www.blackillustrations.com/illustrations/the-office-hustle-illustration-pack-official](https://www.blackillustrations.com/illustrations/the-office-hustle-illustration-pack-official)  
 
 ## Prompt 5: How can we avoid ‘tokenism’ in our  writing and reporting?
-Moderator: Kendall Powell (\@KendallSciWrite)
+Moderator: Kendall Powell ([\@KendallSciWrite](https://twitter.com/KendallSciWri))
 
 **Kendall Powell’s (freelancer) take on tokenism:**
 Plenary was amazing. One definition of tokenism in journalism would be: The practice of including diverse voices only to prevent criticism, boost numbers of diverse sources, or give the appearance of fairness and balance in your reporting.
@@ -433,7 +433,7 @@ A few good ways to find diverse scientists/avoid tokenism:
 
 
 ## Prompt 6: How can PIOs and journalists work together to ensure more representative reporting?
-Moderator: Kelly Tyrrell (\@kellyperil)
+Moderator: Kelly Tyrrell ([\@kellyperil](https://twitter.com/kellyperil))
 
 Talk to graduate students and postdocs and not just corresponding authors; these are often the first authors. PIOs can also include diverse sources in their own stories.
 
@@ -473,7 +473,7 @@ Might be worth looking at institutions with more diverse faculty for experts. As
 * a new resource of free images of Black professionals: [https://www.blackillustrations.com/illustrations/the-office-hustle-illustration-pack-official](https://www.blackillustrations.com/illustrations/the-office-hustle-illustration-pack-official)  
 
 ## Prompt 7: How can science writers better cover social justice issues?
-Moderator: Wudan Yan (\@wudanyan)
+Moderator: Wudan Yan ([\@wudanyan](https://twitter.com/wudanyan))
 
 PIO from JHU says that even when she publishes stories about health inequities, or POC communities, she finds that journalists don’t like to cover these stories. She keeps pushing it because it’s important, but gets severely less pick-up. 
 

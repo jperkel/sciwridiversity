@@ -5,17 +5,20 @@ content/01.abstract.md:3:gmail
 content/01.abstract.md:3:perkel
 content/02.prompt01.md:2:Pérez
 content/02.prompt01.md:2:rpocisv
+content/02.prompt01.md:2:rpocisv
 content/02.prompt01.md:5:NAHispanicJ
 content/02.prompt01.md:5:NASW
 content/02.prompt01.md:5:NativeAJA
 content/02.prompt01.md:8:NASW
 content/02.prompt01.md:8:Thx
 content/02.prompt01.md:10:ABRCMS
+content/02.prompt01.md:10:BlackandSTEM
 content/02.prompt01.md:10:BlackAndSTEM
 content/02.prompt01.md:10:eg
 content/02.prompt01.md:10:eg
 content/02.prompt01.md:10:Latinx
 content/02.prompt01.md:10:LatinxChem
+content/02.prompt01.md:10:LatinXChem
 content/02.prompt01.md:10:NOBCChE
 content/02.prompt01.md:10:pls
 content/02.prompt01.md:10:SACNAS
@@ -23,6 +26,7 @@ content/02.prompt01.md:10:Tapia
 content/02.prompt01.md:14:inclusivity
 content/02.prompt01.md:36:DEI
 content/02.prompt01.md:36:SciComm
+content/03.prompt02.md:2:DorisTruong
 content/03.prompt02.md:2:DorisTruong
 content/03.prompt02.md:2:Truong
 content/03.prompt02.md:12:poynter
@@ -68,6 +72,7 @@ content/03.prompt02.md:90:Unsplash
 content/03.prompt02.md:91:tonl
 content/03.prompt02.md:91:tonl
 content/04.prompt03.md:2:SarahZielinski
+content/04.prompt03.md:2:SarahZielinski
 content/04.prompt03.md:2:Zielinski
 content/04.prompt03.md:4:hoc
 content/04.prompt03.md:10:LatinX
@@ -87,6 +92,8 @@ content/05.prompt04.md:41:Shutterstock
 content/05.prompt04.md:42:tonl
 content/05.prompt04.md:42:tonl
 content/05.prompt04.md:42:tonl
+content/06.prompt05.md:2:KendallSciWri
+content/06.prompt05.md:2:KendallSciWrite
 content/06.prompt05.md:7:TK
 content/06.prompt05.md:14:BIPOC
 content/06.prompt05.md:14:LGBTQ
@@ -142,6 +149,7 @@ content/06.prompt05.md:98:evem
 content/06.prompt05.md:102:orgs
 content/07.prompt06.md:1:PIOs
 content/07.prompt06.md:2:kellyperil
+content/07.prompt06.md:2:kellyperil
 content/07.prompt06.md:2:Tyrrell
 content/07.prompt06.md:4:PIOs
 content/07.prompt06.md:6:PIOs
@@ -156,6 +164,7 @@ content/07.prompt06.md:37:tonl
 content/07.prompt06.md:37:tonl
 content/07.prompt06.md:37:TONL
 content/08.prompt07.md:2:Wudan
+content/08.prompt07.md:2:wudanyan
 content/08.prompt07.md:2:wudanyan
 content/08.prompt07.md:2:Yan
 content/08.prompt07.md:4:JHU
