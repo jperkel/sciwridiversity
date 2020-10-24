@@ -34,7 +34,7 @@ NLGJA
 NOBCChE
 nonbinary
 Pérez
-Perkel
+perkel
 PIO
 pls
 Poynter
