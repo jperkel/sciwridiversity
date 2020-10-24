@@ -11,11 +11,18 @@ authors:
     initials: JMP
     twitter: j_perkel
     email: jeffrey.perkel@gmail.com
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+  - name: Rodrigo Pérez Ortega
+    twitter: rpocisv
+  - name: Steve Bien-Aimé
+    twitter: Steve_BienAime
+  - name: Doris Truong
+    twitter: DorisTruong
+  - name: Sarah Zielinski
+    twitter: SarahZielinski
+  - name: Kendall Powell
+    twitter: KendallSciWri
+    email: kendall2@nasw.org
+  - name: Kelly Tyrrell
+    twitter: kellyperil
+  - name: Wudan Yan
+    twitter: wudanyan
