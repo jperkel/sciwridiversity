@@ -1,17 +1,71 @@
 ---
-author-meta:
-- "Steve Bien-Aim\xE9"
-- "Rodrigo P\xE9rez Ortega"
-- Jeffrey M. Perkel
-- Kendall Powell
-- Doris Truong
-- Kelly Tyrrell
-- Wudan Yan
-- Sarah Zielinski
+author-meta: []
 bibliography:
 - content/manual-references.json
 date-meta: '2020-10-24'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Representation Matters: Better Writing Through Diversity\" />\n<meta name=\"citation_title\" content=\"Representation Matters: Better Writing Through Diversity\" />\n<meta property=\"og:title\" content=\"Representation Matters: Better Writing Through Diversity\" />\n<meta property=\"twitter:title\" content=\"Representation Matters: Better Writing Through Diversity\" />\n<meta name=\"dc.date\" content=\"2020-10-24\" />\n<meta name=\"citation_publication_date\" content=\"2020-10-24\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Steve Bien-Aim\xE9\" />\n<meta name=\"twitter:creator\" content=\"@Steve_BienAime\" />\n<meta name=\"citation_author\" content=\"Rodrigo P\xE9rez Ortega\" />\n<meta name=\"twitter:creator\" content=\"@rpocisv\" />\n<meta name=\"citation_author\" content=\"Jeffrey M. Perkel\" />\n<meta name=\"twitter:creator\" content=\"@j_perkel\" />\n<meta name=\"citation_author\" content=\"Kendall Powell\" />\n<meta name=\"twitter:creator\" content=\"@KendallSciWri\" />\n<meta name=\"citation_author\" content=\"Doris Truong\" />\n<meta name=\"twitter:creator\" content=\"@DorisTruong\" />\n<meta name=\"citation_author\" content=\"Kelly Tyrrell\" />\n<meta name=\"twitter:creator\" content=\"@kellyperil\" />\n<meta name=\"citation_author\" content=\"Wudan Yan\" />\n<meta name=\"twitter:creator\" content=\"@wudanyan\" />\n<meta name=\"citation_author\" content=\"Sarah Zielinski\" />\n<meta name=\"twitter:creator\" content=\"@SarahZielinski\" />\n<link rel=\"canonical\" href=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta property=\"og:url\" content=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta property=\"twitter:url\" content=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://jperkel.github.io/sciwridiversity/\" />\n<meta name=\"citation_pdf_url\" content=\"https://jperkel.github.io/sciwridiversity/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://jperkel.github.io/sciwridiversity/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://jperkel.github.io/sciwridiversity/v/011b4182c796d4e8cb724fe5ca304b3a203a075f/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://jperkel.github.io/sciwridiversity/v/011b4182c796d4e8cb724fe5ca304b3a203a075f/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://jperkel.github.io/sciwridiversity/v/011b4182c796d4e8cb724fe5ca304b3a203a075f/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: '<!--
+
+  Manubot generated metadata rendered from header-includes-template.html.
+
+  Suggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html
+
+  -->
+
+  <meta name="dc.format" content="text/html" />
+
+  <meta name="dc.title" content="Representation Matters: Better Writing Through Diversity" />
+
+  <meta name="citation_title" content="Representation Matters: Better Writing Through Diversity" />
+
+  <meta property="og:title" content="Representation Matters: Better Writing Through Diversity" />
+
+  <meta property="twitter:title" content="Representation Matters: Better Writing Through Diversity" />
+
+  <meta name="dc.date" content="2020-10-24" />
+
+  <meta name="citation_publication_date" content="2020-10-24" />
+
+  <meta name="dc.language" content="en-US" />
+
+  <meta name="citation_language" content="en-US" />
+
+  <meta name="dc.relation.ispartof" content="Manubot" />
+
+  <meta name="dc.publisher" content="Manubot" />
+
+  <meta name="citation_journal_title" content="Manubot" />
+
+  <meta name="citation_technical_report_institution" content="Manubot" />
+
+  <link rel="canonical" href="https://jperkel.github.io/sciwridiversity/" />
+
+  <meta property="og:url" content="https://jperkel.github.io/sciwridiversity/" />
+
+  <meta property="twitter:url" content="https://jperkel.github.io/sciwridiversity/" />
+
+  <meta name="citation_fulltext_html_url" content="https://jperkel.github.io/sciwridiversity/" />
+
+  <meta name="citation_pdf_url" content="https://jperkel.github.io/sciwridiversity/manuscript.pdf" />
+
+  <link rel="alternate" type="application/pdf" href="https://jperkel.github.io/sciwridiversity/manuscript.pdf" />
+
+  <link rel="alternate" type="text/html" href="https://jperkel.github.io/sciwridiversity/v/5d1e31923f313c6dd20796dc4da63a9a2fedfaae/" />
+
+  <meta name="manubot_html_url_versioned" content="https://jperkel.github.io/sciwridiversity/v/5d1e31923f313c6dd20796dc4da63a9a2fedfaae/" />
+
+  <meta name="manubot_pdf_url_versioned" content="https://jperkel.github.io/sciwridiversity/v/5d1e31923f313c6dd20796dc4da63a9a2fedfaae/manuscript.pdf" />
+
+  <meta property="og:type" content="article" />
+
+  <meta property="twitter:card" content="summary_large_image" />
+
+  <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
+
+  <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
+
+  <meta name="theme-color" content="#ad1457" />
+
+  <!-- end Manubot generated metadata -->'
 keywords:
 - markdown
 - publishing
@@ -31,65 +85,11 @@ title: 'Representation Matters: Better Writing Through Diversity'
 
 <small><em>
 This manuscript
-([permalink](https://jperkel.github.io/sciwridiversity/v/011b4182c796d4e8cb724fe5ca304b3a203a075f/))
+([permalink](https://jperkel.github.io/sciwridiversity/v/5d1e31923f313c6dd20796dc4da63a9a2fedfaae/))
 was automatically generated
-from [jperkel/sciwridiversity@011b418](https://github.com/jperkel/sciwridiversity/tree/011b4182c796d4e8cb724fe5ca304b3a203a075f)
+from [jperkel/sciwridiversity@5d1e319](https://github.com/jperkel/sciwridiversity/tree/5d1e31923f313c6dd20796dc4da63a9a2fedfaae)
 on October 24, 2020.
 </em></small>
-
-## Authors
-
-
-
-+ **Steve Bien-Aimé**<br>
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [Steve_BienAime](https://twitter.com/Steve_BienAime)<br>
-  <small>
-  </small>
-
-+ **Rodrigo Pérez Ortega**<br>
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [rpocisv](https://twitter.com/rpocisv)<br>
-  <small>
-  </small>
-
-+ **Jeffrey M. Perkel**<br>
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [jperkel](https://github.com/jperkel)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [j_perkel](https://twitter.com/j_perkel)<br>
-  <small>
-  </small>
-
-+ **Kendall Powell**<br>
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [KendallSciWri](https://twitter.com/KendallSciWri)<br>
-  <small>
-  </small>
-
-+ **Doris Truong**<br>
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [DorisTruong](https://twitter.com/DorisTruong)<br>
-  <small>
-  </small>
-
-+ **Kelly Tyrrell**<br>
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [kellyperil](https://twitter.com/kellyperil)<br>
-  <small>
-  </small>
-
-+ **Wudan Yan**<br>
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [wudanyan](https://twitter.com/wudanyan)<br>
-  <small>
-  </small>
-
-+ **Sarah Zielinski**<br>
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [SarahZielinski](https://twitter.com/SarahZielinski)<br>
-  <small>
-  </small>
 
 
 
@@ -149,16 +149,16 @@ Moderator: Doris Truong ([\@DorisTruong](https://twitter.com/DorisTruong))
 
 **Aspects of diversity**, from [Poynter’s Doris Truong](https://www.poynter.org/member/doris-truong/)  
 
-| Col 1                 | Col 2                 | Col 3               |  
-| :----                 | :----:                |               ----: |  
-| Race/Ethnicity*       | Intro-/extro-vert     | Neurodiversity      |  
-| Class/Socioeconomic*  | Housing status        | Passport?           |  
-| Gender*               | Language(s)           | Political belief    |  
-| Age/Generation*       | Family status         | Education           |  
-| Sexual orientation*   | Nationality           | Criminal background |  
-| Geography*            | Immigration status    | Body shape          |  
-| Religion              | Work experience       | Intersectionality   |  
-| Military status       | Physical (dis)ability |                     |  
+|                      |                       |                     |  
+| :------------------- | :-------------------: | ------------------: |  
+| Race/Ethnicity*      | Intro-/extro-vert     | Neurodiversity      |  
+| Class/Socioeconomic* | Housing status        | Passport?           |  
+| Gender*              | Language(s)           | Political belief    |  
+| Age/Generation*      | Family status         | Education           |  
+| Sexual orientation*  | Nationality           | Criminal background |  
+| Geography*           | Immigration status    | Body shape          |  
+| Religion             | Work experience       | Intersectionality   |  
+| Military status      | Physical (dis)ability |                     |  
 
 * _These 6 characteristics are Fault Lines, a construct from the [Maynard Institute](https://mije.org/) that helps people identify their unconscious bias._
 

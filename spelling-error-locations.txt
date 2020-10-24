@@ -92,7 +92,6 @@ content/05.prompt04.md:41:Shutterstock
 content/05.prompt04.md:42:tonl
 content/05.prompt04.md:42:tonl
 content/05.prompt04.md:42:tonl
-content/06.prompt05.md:2:KendallSciWri
 content/06.prompt05.md:2:KendallSciWrite
 content/06.prompt05.md:7:TK
 content/06.prompt05.md:14:BIPOC
