@@ -49,11 +49,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://jperkel.github.io/sciwridiversity/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://jperkel.github.io/sciwridiversity/v/cb4ccf5e1704b18426db53a984adff61da73ef98/" />
+  <link rel="alternate" type="text/html" href="https://jperkel.github.io/sciwridiversity/v/12870da4776e891babd013df01ff139577818189/" />
 
-  <meta name="manubot_html_url_versioned" content="https://jperkel.github.io/sciwridiversity/v/cb4ccf5e1704b18426db53a984adff61da73ef98/" />
+  <meta name="manubot_html_url_versioned" content="https://jperkel.github.io/sciwridiversity/v/12870da4776e891babd013df01ff139577818189/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://jperkel.github.io/sciwridiversity/v/cb4ccf5e1704b18426db53a984adff61da73ef98/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://jperkel.github.io/sciwridiversity/v/12870da4776e891babd013df01ff139577818189/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -85,17 +85,17 @@ title: 'Representation Matters: Better Writing Through Diversity'
 
 <small><em>
 This manuscript
-([permalink](https://jperkel.github.io/sciwridiversity/v/cb4ccf5e1704b18426db53a984adff61da73ef98/))
+([permalink](https://jperkel.github.io/sciwridiversity/v/12870da4776e891babd013df01ff139577818189/))
 was automatically generated
-from [jperkel/sciwridiversity@cb4ccf5](https://github.com/jperkel/sciwridiversity/tree/cb4ccf5e1704b18426db53a984adff61da73ef98)
+from [jperkel/sciwridiversity@12870da](https://github.com/jperkel/sciwridiversity/tree/12870da4776e891babd013df01ff139577818189)
 on October 24, 2020.
 </em></small>
 
 
 
 As a follow-up to the [opening plenary session](https://sciencewriters2020.org/session) (organized by Shraddha Chakradhar and Jenny Cutraro) at ScienceWriters2020, we invited attendees to brainstorm ideas for improving diversity in science reporting. Participants were randomly split into seven breakout rooms, each discussing one prompt. We asked them to populate Google documents with their best ideas, strategies and resources, which we have now compiled into a single resource for the science writing community. 
- 
-Please feel free to suggest additions to jeffrey dot perkel at gmail dot com. 
+
+**Let us know if we've missed anything by clicking the 'h' icon at the top-right to open the [Hypothesis commenting system](https://web.hypothes.is/).**
 
 
 ## Prompt 1: When does it make sense to specifically include diversity and representation angles of sources and subjects in stories?
@@ -123,7 +123,7 @@ As an ally reporting on a minority source/story, it will be difficult to please 
 Ask sources how they would like to be identified, give them the space to share or to not share.
 If they just want to talk about science, then perhaps it might be pertinent to ask why their identity is not a part of their science or research.
 
-I’m thinking of the Henrietta Lacks book where, IMO, the author seemed to do a good job at putting herself in a position of vulnerability and trying to be an ally, share the story of someone else and their family.
+I’m thinking of the [Henrietta Lacks book](http://rebeccaskloot.com/the-immortal-life/) where, IMO, the author seemed to do a good job at putting herself in a position of vulnerability and trying to be an ally, share the story of someone else and their family.
 
 In a non-direct way, perhaps describe to source about how your news outlet has a diversity mission/initiative. Note: this tactic is more common during job interviews, where hiring manager & candidate are assessing culture of organization.
 
@@ -133,7 +133,7 @@ Research your source’s professional organization membership and/or service act
 
 **At the end of interview**: Is there anything you wished I’d ask you? Anything I might not have known to ask you?
 
-I’ve found the Inclusive SciComm community to be a great place to learn about how to respectfully include DEI (or JEDI :) ) in your writing work
+I’ve found the [Inclusive SciComm](https://inclusivescicomm.org/) community to be a great place to learn about how to respectfully include DEI (or JEDI :) ) in your writing work
 
 
 ## Prompt 2: What aspects of diversity are science writers neglecting?
@@ -361,7 +361,7 @@ Megan (also a PIO) runs into this problem, too.
 * ^^Great point! Especially because professors, especially tenured or heads of labs get credit for work that has been done by students and postdocs.  
     * ^^Agreed! Also - PIOs should take opportunities to provide media training and encouragement to early career scientists who may be more diverse as a group; that can help them feel prepared and comfortable to jump into it.  
 
-Tina Saey (reporter): Developing a diverse source list. She draws heavily from awards that go to scientists who are from diverse backgrounds + taking a look at conference speaker lists (those have headshots) and lots of conferences are pushing to include diverse people. And their expertise immediately pops out based on their talk’s title.
+Tina Saey (reporter): Developing a diverse source list. She draws heavily from awards that go to scientists who are from diverse backgrounds + taking a look at conference speaker lists (those have headshots) and lots of conferences are pushing to include diverse people. And their expertise immediately pops out based on their talk’s title.  
 → Tina says here’s an example of the awards list she looks at: [https://www.hhmi.org/programs/hanna-h-gray-fellows-program#Fellows](https://www.hhmi.org/programs/hanna-h-gray-fellows-program#Fellows)   
 
 Carolyn Collin Petersen (freelancer + event organizer): Some scientists refuse to be on ‘manels’ until you get more women on the panel. Ask around with the nearby institutions.  
@@ -463,6 +463,7 @@ How do you navigate calling out diversity? It’s best to avoid calling out what
 Highlight diversity of perspectives, broaden the point-of-view of your stories. Our work shouldn’t involve checkboxes or categories. It may be that a white man may offer a different socieconomic perspective. To avoid tokenism, at the very start of a story, examine the questions you are asking and see what questions you could be asking. When you choose a source, really be intentional about the value and expertise that they bring to the table. That will translate to the source as well in your conversations.
 
 PIOs can choose to highlight people through Q&As and profiles. We can choose stories from the outset that represent diverse perspectives.  
+
 It’s difficult in some fields to do this (for ex: physics, engineering) when they also lack diversity, especially in higher ed.
 
 Might be worth looking at institutions with more diverse faculty for experts. Ask experts to speak with their grad students or postdocs.
@@ -492,7 +493,7 @@ TLDR: Would be helpful to have resources on NASW, for instance, that provides gu
 
 *****
 
-**From chat:**
+**From chat:**  
 **cassandrawillyard**: I’ve used anonymous sources or only first names, but it’s tricky and standards do depend on the outlet.
 
 **Wudan Yan (she/her)**: I’m striking out! B/c there are so many, but there’s a lot of good stuff here: [https://dartcenter.org/resources?page=1&topic%5B0%5D=76](https://dartcenter.org/resources?page=1&topic%5B0%5D=76) 

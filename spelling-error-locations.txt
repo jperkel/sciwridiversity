@@ -1,8 +1,6 @@
 content/01.abstract.md:1:Chakradhar
 content/01.abstract.md:1:Cutraro
 content/01.abstract.md:1:Shraddha
-content/01.abstract.md:3:gmail
-content/01.abstract.md:3:perkel
 content/02.prompt01.md:2:Pérez
 content/02.prompt01.md:2:rpocisv
 content/02.prompt01.md:2:rpocisv
@@ -130,8 +128,6 @@ content/06.prompt05.md:58:PIOs
 content/06.prompt05.md:60:Kazmier
 content/06.prompt05.md:64:UArizona
 content/06.prompt05.md:64:Uhlorn
-content/06.prompt05.md:67:gmail
-content/06.prompt05.md:67:gmail
 content/06.prompt05.md:70:Blackafinstem
 content/06.prompt05.md:70:Blackafinstem
 content/06.prompt05.md:82:scis
@@ -159,9 +155,9 @@ content/07.prompt06.md:18:tokenizing
 content/07.prompt06.md:28:checkboxes
 content/07.prompt06.md:28:socieconomic
 content/07.prompt06.md:30:PIOs
-content/07.prompt06.md:37:tonl
-content/07.prompt06.md:37:tonl
-content/07.prompt06.md:37:TONL
+content/07.prompt06.md:38:tonl
+content/07.prompt06.md:38:tonl
+content/07.prompt06.md:38:TONL
 content/08.prompt07.md:2:Wudan
 content/08.prompt07.md:2:wudanyan
 content/08.prompt07.md:2:wudanyan

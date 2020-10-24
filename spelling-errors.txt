@@ -33,7 +33,6 @@ Finkbeiner
 Genzel
 Ghez’s
 Giuliana
-gmail
 headshots
 hireability
 hoc
@@ -45,7 +44,7 @@ JOC
 Kazmier
 kellyperil
 KendallSciWrite
-LatinX
+Latinx
 LatinxChem
 LGBTQ
 LGBTQIA
@@ -66,7 +65,6 @@ ORNL’s
 othered
 Pérez
 Periodistas
-perkel
 PIO
 PIOs
 pls
@@ -97,7 +95,7 @@ tipsheet
 TK
 TLDR
 tokenizing
-TONL
+tonl
 tos
 Truong
 Tyrrell
