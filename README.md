@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/jperkel/sciwridiversity/tree/gh-pages) branch hosts the contents of this directory at <https://jperkel.github.io/sciwridiversity/>.
-The permalink for this webpage version is <https://jperkel.github.io/sciwridiversity/v/5d1e31923f313c6dd20796dc4da63a9a2fedfaae/>.
+The permalink for this webpage version is <https://jperkel.github.io/sciwridiversity/v/fb92468f698a496b798fc65cc218e59523304f21/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://jperkel.github.io/sciwridiversity/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`5d1e31923f313c6dd20796dc4da63a9a2fedfaae`](https://github.com/jperkel/sciwridiversity/commit/5d1e31923f313c6dd20796dc4da63a9a2fedfaae).
+[`fb92468f698a496b798fc65cc218e59523304f21`](https://github.com/jperkel/sciwridiversity/commit/fb92468f698a496b798fc65cc218e59523304f21).
