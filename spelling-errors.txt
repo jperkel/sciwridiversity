@@ -44,7 +44,7 @@ JOC
 Kazmier
 kellyperil
 KendallSciWrite
-Latinx
+LatinX
 LatinxChem
 LGBTQ
 LGBTQIA
@@ -95,7 +95,7 @@ tipsheet
 TK
 TLDR
 tokenizing
-tonl
+TONL
 tos
 Truong
 Tyrrell

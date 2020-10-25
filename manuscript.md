@@ -2,7 +2,7 @@
 author-meta: []
 bibliography:
 - content/manual-references.json
-date-meta: '2020-10-24'
+date-meta: '2020-10-25'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -21,9 +21,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Representation Matters: Better Writing Through Diversity" />
 
-  <meta name="dc.date" content="2020-10-24" />
+  <meta name="dc.date" content="2020-10-25" />
 
-  <meta name="citation_publication_date" content="2020-10-24" />
+  <meta name="citation_publication_date" content="2020-10-25" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -49,11 +49,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://jperkel.github.io/sciwridiversity/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://jperkel.github.io/sciwridiversity/v/12870da4776e891babd013df01ff139577818189/" />
+  <link rel="alternate" type="text/html" href="https://jperkel.github.io/sciwridiversity/v/ec068d65f6a2b5efe6d1530555d848b8d4d892db/" />
 
-  <meta name="manubot_html_url_versioned" content="https://jperkel.github.io/sciwridiversity/v/12870da4776e891babd013df01ff139577818189/" />
+  <meta name="manubot_html_url_versioned" content="https://jperkel.github.io/sciwridiversity/v/ec068d65f6a2b5efe6d1530555d848b8d4d892db/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://jperkel.github.io/sciwridiversity/v/12870da4776e891babd013df01ff139577818189/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://jperkel.github.io/sciwridiversity/v/ec068d65f6a2b5efe6d1530555d848b8d4d892db/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -85,10 +85,10 @@ title: 'Representation Matters: Better Writing Through Diversity'
 
 <small><em>
 This manuscript
-([permalink](https://jperkel.github.io/sciwridiversity/v/12870da4776e891babd013df01ff139577818189/))
+([permalink](https://jperkel.github.io/sciwridiversity/v/ec068d65f6a2b5efe6d1530555d848b8d4d892db/))
 was automatically generated
-from [jperkel/sciwridiversity@12870da](https://github.com/jperkel/sciwridiversity/tree/12870da4776e891babd013df01ff139577818189)
-on October 24, 2020.
+from [jperkel/sciwridiversity@ec068d6](https://github.com/jperkel/sciwridiversity/tree/ec068d65f6a2b5efe6d1530555d848b8d4d892db)
+on October 25, 2020.
 </em></small>
 
 
@@ -102,7 +102,7 @@ As a follow-up to the [opening plenary session](https://sciencewriters2020.org/s
 Moderator: Rodrigo Pérez Ortega ([\@rpocisv](https://twitter.com/rpocisv))
 
 
-Non-profit’s [www.SciCommDiversity.org](www.SciCommDiversity.org) Fellowship connects diversity journalism organizations members (Natl Assoc of Black Journo, NAHispanicJ, NativeAJA) to NASW community. 
+Non-profit’s [www.SciCommDiversity.org](http://www.SciCommDiversity.org) Fellowship connects diversity journalism organizations members (Natl Assoc of Black Journo, NAHispanicJ, NativeAJA) to NASW community. 
 
 Overview of fellowship program published: [https://www.frontiersin.org/articles/10.3389/fcomm.2020.00051/full](https://www.frontiersin.org/articles/10.3389/fcomm.2020.00051/full). Article has examples of how to include diversity angle to science reporting (for _DiverseScholar.org_ magazine [see [https://communitypartners.org/project/diverse-scholar](https://communitypartners.org/project/diverse-scholar)]).
 Thx to NASW Idea Grant funding for catalyzing fellowship.
@@ -230,9 +230,9 @@ being very careful about not tokenizing people by using images out of the contex
 * [https://tonl.co/](https://tonl.co/)  
 * [broadlygenderphotos.vice.com](https://broadlygenderphotos.vice.com/)  
 * [jopwellcollection.jopwell.com/internedition/](https://jopwellcollection.jopwell.com/internedition/)  
-* [www.flickr.com/photos/wocintechchat/](www.flickr.com/photos/wocintechchat/)  
-* [www.nappy.co/](www.nappy.co/)  
-* [www.gettyimages.com/collections/leanin](www.gettyimages.com/collections/leanin)  
+* [www.flickr.com/photos/wocintechchat/](https://www.flickr.com/photos/wocintechchat/)  
+* [www.nappy.co/](https://www.nappy.co/)  
+* [www.gettyimages.com/collections/leanin](https://www.gettyimages.com/collections/leanin)  
 * [burst.shopify.com/](https://burst.shopify.com/)  
 
 ## Prompt 3: How can editors and writers work together to ensure more representative reporting?
@@ -323,7 +323,7 @@ The Native American Journalists Association is a good source for media reporting
 * Promote the work of various colleagues -- embrace this ethic in diversity training
 
 * **Question**: has anyone found a great resource for images of members of underrepresented groups? That is so important but can also be very time intensive. We currently use Shutterstock.
-    * tonl specializes in diverse stock photography: [https://tonl.co/](https://tonl.co/)  
+    * TONL specializes in diverse stock photography: [https://tonl.co/](https://tonl.co/)  
     * There’s a new resource of free images of Black professionals. Just a sec.
 [https://www.blackillustrations.com/illustrations/the-office-hustle-illustration-pack-official](https://www.blackillustrations.com/illustrations/the-office-hustle-illustration-pack-official)  
 
