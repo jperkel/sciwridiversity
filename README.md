@@ -1,3 +1,13 @@
+# Session notes for #SciWri20 #SciWriDiversity breakout session, Monday, 19 October, 2:15pm ET.
+
+As a follow-up to the opening plenary session (organized by Shraddha Chakradhar and Jenny Cutraro) at [ScienceWriters2020](https://sciencewriters2020.org/session), we invited attendees to brainstorm ideas for improving diversity in science reporting. Participants were randomly split into seven breakout rooms, each discussing one prompt. We asked them to populate Google documents with their best ideas, strategies and resources, which we have now compiled into a single resource for the science writing community. ([![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://jperkel.github.io/sciwridiversity/)
+[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://jperkel.github.io/sciwridiversity/manuscript.pdf))
+
+Session organizers: [Jeffrey Perkel](https://twitter.com/j_perkel), [Clinton Parks](https://twitter.com/crparks3), [Ben Young Landis](https://twitter.com/younglandis)  
+Session moderators: [Steve Bien-Aimé](https://twitter.com/Steve_BienAime), [Rodrigo Pérez Ortega](https://twitter.com/rpocisv), [Kendall Powell](https://twitter.com/KendallSciWri), [Doris Truong](https://twitter.com/DorisTruong), [Kelly Tyrrell](https://twitter.com/kellyperil), [Wudan Yan](https://twitter.com/wudanyan), [Sarah Zielinski](https://twitter.com/SarahZielinski)  
+
+This document was created using [Manubot](https://manubot.org/). Details below.  
+
 # Automated scholarly manuscripts on GitHub
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
