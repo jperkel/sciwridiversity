@@ -49,11 +49,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://jperkel.github.io/sciwridiversity2020/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://jperkel.github.io/sciwridiversity2020/v/c05fc78c3342b8b7608ea358340f9950060223cf/" />
+  <link rel="alternate" type="text/html" href="https://jperkel.github.io/sciwridiversity2020/v/0e81c2f0f6841333797330acbe1b1ab93d11ceb2/" />
 
-  <meta name="manubot_html_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/c05fc78c3342b8b7608ea358340f9950060223cf/" />
+  <meta name="manubot_html_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/0e81c2f0f6841333797330acbe1b1ab93d11ceb2/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/c05fc78c3342b8b7608ea358340f9950060223cf/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/0e81c2f0f6841333797330acbe1b1ab93d11ceb2/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -85,9 +85,9 @@ title: 'Representation Matters: Better Writing Through Diversity'
 
 <small><em>
 This manuscript
-([permalink](https://jperkel.github.io/sciwridiversity2020/v/c05fc78c3342b8b7608ea358340f9950060223cf/))
+([permalink](https://jperkel.github.io/sciwridiversity2020/v/0e81c2f0f6841333797330acbe1b1ab93d11ceb2/))
 was automatically generated
-from [jperkel/sciwridiversity2020@c05fc78](https://github.com/jperkel/sciwridiversity2020/tree/c05fc78c3342b8b7608ea358340f9950060223cf)
+from [jperkel/sciwridiversity2020@0e81c2f](https://github.com/jperkel/sciwridiversity2020/tree/0e81c2f0f6841333797330acbe1b1ab93d11ceb2)
 on October 25, 2020.
 </em></small>
 
