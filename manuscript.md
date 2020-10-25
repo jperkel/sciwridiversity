@@ -37,23 +37,23 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <link rel="canonical" href="https://jperkel.github.io/sciwridiversity/" />
+  <link rel="canonical" href="https://jperkel.github.io/sciwridiversity2020/" />
 
-  <meta property="og:url" content="https://jperkel.github.io/sciwridiversity/" />
+  <meta property="og:url" content="https://jperkel.github.io/sciwridiversity2020/" />
 
-  <meta property="twitter:url" content="https://jperkel.github.io/sciwridiversity/" />
+  <meta property="twitter:url" content="https://jperkel.github.io/sciwridiversity2020/" />
 
-  <meta name="citation_fulltext_html_url" content="https://jperkel.github.io/sciwridiversity/" />
+  <meta name="citation_fulltext_html_url" content="https://jperkel.github.io/sciwridiversity2020/" />
 
-  <meta name="citation_pdf_url" content="https://jperkel.github.io/sciwridiversity/manuscript.pdf" />
+  <meta name="citation_pdf_url" content="https://jperkel.github.io/sciwridiversity2020/manuscript.pdf" />
 
-  <link rel="alternate" type="application/pdf" href="https://jperkel.github.io/sciwridiversity/manuscript.pdf" />
+  <link rel="alternate" type="application/pdf" href="https://jperkel.github.io/sciwridiversity2020/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://jperkel.github.io/sciwridiversity/v/ec068d65f6a2b5efe6d1530555d848b8d4d892db/" />
+  <link rel="alternate" type="text/html" href="https://jperkel.github.io/sciwridiversity2020/v/c05fc78c3342b8b7608ea358340f9950060223cf/" />
 
-  <meta name="manubot_html_url_versioned" content="https://jperkel.github.io/sciwridiversity/v/ec068d65f6a2b5efe6d1530555d848b8d4d892db/" />
+  <meta name="manubot_html_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/c05fc78c3342b8b7608ea358340f9950060223cf/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://jperkel.github.io/sciwridiversity/v/ec068d65f6a2b5efe6d1530555d848b8d4d892db/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/c05fc78c3342b8b7608ea358340f9950060223cf/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -85,9 +85,9 @@ title: 'Representation Matters: Better Writing Through Diversity'
 
 <small><em>
 This manuscript
-([permalink](https://jperkel.github.io/sciwridiversity/v/ec068d65f6a2b5efe6d1530555d848b8d4d892db/))
+([permalink](https://jperkel.github.io/sciwridiversity2020/v/c05fc78c3342b8b7608ea358340f9950060223cf/))
 was automatically generated
-from [jperkel/sciwridiversity@ec068d6](https://github.com/jperkel/sciwridiversity/tree/ec068d65f6a2b5efe6d1530555d848b8d4d892db)
+from [jperkel/sciwridiversity2020@c05fc78](https://github.com/jperkel/sciwridiversity2020/tree/c05fc78c3342b8b7608ea358340f9950060223cf)
 on October 25, 2020.
 </em></small>
 
