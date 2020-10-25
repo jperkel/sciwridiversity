@@ -49,11 +49,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://jperkel.github.io/sciwridiversity2020/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://jperkel.github.io/sciwridiversity2020/v/d2708acad5f4b3ce1dfc179f4e357ea61c269640/" />
+  <link rel="alternate" type="text/html" href="https://jperkel.github.io/sciwridiversity2020/v/02d95766f11045842121e47587dbb3f4b44d9177/" />
 
-  <meta name="manubot_html_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/d2708acad5f4b3ce1dfc179f4e357ea61c269640/" />
+  <meta name="manubot_html_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/02d95766f11045842121e47587dbb3f4b44d9177/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/d2708acad5f4b3ce1dfc179f4e357ea61c269640/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/02d95766f11045842121e47587dbb3f4b44d9177/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -85,15 +85,20 @@ title: 'Representation Matters: Better Writing Through Diversity'
 
 <small><em>
 This manuscript
-([permalink](https://jperkel.github.io/sciwridiversity2020/v/d2708acad5f4b3ce1dfc179f4e357ea61c269640/))
+([permalink](https://jperkel.github.io/sciwridiversity2020/v/02d95766f11045842121e47587dbb3f4b44d9177/))
 was automatically generated
-from [jperkel/sciwridiversity2020@d2708ac](https://github.com/jperkel/sciwridiversity2020/tree/d2708acad5f4b3ce1dfc179f4e357ea61c269640)
+from [jperkel/sciwridiversity2020@02d9576](https://github.com/jperkel/sciwridiversity2020/tree/02d95766f11045842121e47587dbb3f4b44d9177)
 on October 25, 2020.
 </em></small>
 
 
 
-As a follow-up to the [opening plenary session](https://sciencewriters2020.org/session) (organized by Shraddha Chakradhar and Jenny Cutraro) at ScienceWriters2020, we invited attendees to brainstorm ideas for improving diversity in science reporting. Participants were randomly split into seven breakout rooms, each discussing one prompt. We asked them to populate Google documents with their best ideas, strategies and resources, which we have now compiled into a single resource for the science writing community. 
+As a follow-up to the opening plenary session [Whova link](https://whova.com/portal/webapp/scien2_202010/Agenda/1144504) (organized by Shraddha Chakradhar and Jenny Cutraro) at [ScienceWriters2020](https://sciencewriters2020.org), we invited attendees to brainstorm ideas for improving diversity in science reporting. Participants were randomly split into seven breakout rooms, each discussing one prompt. We asked them to populate Google documents with their best ideas, strategies and resources, which we have now compiled into a single resource for the science writing community. 
+
+Session link on Whova: [https://whova.com/portal/webapp/scien2_202010/Agenda/1144496](https://whova.com/portal/webapp/scien2_202010/Agenda/1144496)
+
+Session organizers: [Jeffrey Perkel](https://twitter.com/j_perkel), [Clinton Parks](https://twitter.com/crparks3), [Ben Young Landis](https://twitter.com/younglandis)  
+Session moderators: [Steve Bien-Aimé](https://twitter.com/Steve_BienAime), [Rodrigo Pérez Ortega](https://twitter.com/rpocisv), [Kendall Powell](https://twitter.com/KendallSciWri), [Doris Truong](https://twitter.com/DorisTruong), [Kelly Tyrrell](https://twitter.com/kellyperil), [Wudan Yan](https://twitter.com/wudanyan), [Sarah Zielinski](https://twitter.com/SarahZielinski)  
 
 **Let us know if we've missed anything by clicking the 'h' icon at the top-right to open the [Hypothesis commenting system](https://web.hypothes.is/).**
 
