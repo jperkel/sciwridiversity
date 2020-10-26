@@ -49,11 +49,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://jperkel.github.io/sciwridiversity2020/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://jperkel.github.io/sciwridiversity2020/v/1dd3f408cfbcbdf64e9ed13b130d5455d4a5e372/" />
+  <link rel="alternate" type="text/html" href="https://jperkel.github.io/sciwridiversity2020/v/79354286d1765e4d57007b8f74091193ad13fef9/" />
 
-  <meta name="manubot_html_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/1dd3f408cfbcbdf64e9ed13b130d5455d4a5e372/" />
+  <meta name="manubot_html_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/79354286d1765e4d57007b8f74091193ad13fef9/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/1dd3f408cfbcbdf64e9ed13b130d5455d4a5e372/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/79354286d1765e4d57007b8f74091193ad13fef9/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -85,9 +85,9 @@ title: 'Representation Matters: Better Writing Through Diversity'
 
 <small><em>
 This manuscript
-([permalink](https://jperkel.github.io/sciwridiversity2020/v/1dd3f408cfbcbdf64e9ed13b130d5455d4a5e372/))
+([permalink](https://jperkel.github.io/sciwridiversity2020/v/79354286d1765e4d57007b8f74091193ad13fef9/))
 was automatically generated
-from [jperkel/sciwridiversity2020@1dd3f40](https://github.com/jperkel/sciwridiversity2020/tree/1dd3f408cfbcbdf64e9ed13b130d5455d4a5e372)
+from [jperkel/sciwridiversity2020@7935428](https://github.com/jperkel/sciwridiversity2020/tree/79354286d1765e4d57007b8f74091193ad13fef9)
 on October 26, 2020.
 </em></small>
 
@@ -501,12 +501,10 @@ Freelancers writing about social justice issues are not always confident that th
 
 TL,DR: Would be helpful to have resources on NASW, for instance, that provides guidance on how to cover social justice issues as a writer, and how to navigate editing social justice stories as an editor. 
 
-*****
+**See also:**  
 
-**Useful resources from the discussion**
-Dart Center for Journalism and Trauma [resources for interviewing](https://dartcenter.org/resources?page=1&topic%5B0%5D=76)
-
-[Picture a Scientist](https://www.pictureascientist.com/)
+* Dart Center for Journalism and Trauma [resources for interviewing](https://dartcenter.org/resources?page=1&topic%5B0%5D=76)  
+* [Picture a Scientist](https://www.pictureascientist.com/)  
 
 
 ## Additional resources
