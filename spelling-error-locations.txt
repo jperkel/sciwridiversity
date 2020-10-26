@@ -21,6 +21,7 @@ content/01.abstract.md:8:Wudan
 content/01.abstract.md:8:wudanyan
 content/01.abstract.md:8:Yan
 content/01.abstract.md:8:Zielinski
+content/01.abstract.md:9:LaFrance
 content/02.prompt01.md:2:Pérez
 content/02.prompt01.md:2:rpocisv
 content/02.prompt01.md:2:rpocisv

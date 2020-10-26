@@ -49,11 +49,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://jperkel.github.io/sciwridiversity2020/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://jperkel.github.io/sciwridiversity2020/v/7dc39cde29dd68d72e95f83f2b9219869012fac0/" />
+  <link rel="alternate" type="text/html" href="https://jperkel.github.io/sciwridiversity2020/v/b01b88674ee70d987baf0f5bdc48919216496d35/" />
 
-  <meta name="manubot_html_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/7dc39cde29dd68d72e95f83f2b9219869012fac0/" />
+  <meta name="manubot_html_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/b01b88674ee70d987baf0f5bdc48919216496d35/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/7dc39cde29dd68d72e95f83f2b9219869012fac0/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/b01b88674ee70d987baf0f5bdc48919216496d35/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -85,9 +85,9 @@ title: 'Representation Matters: Better Writing Through Diversity'
 
 <small><em>
 This manuscript
-([permalink](https://jperkel.github.io/sciwridiversity2020/v/7dc39cde29dd68d72e95f83f2b9219869012fac0/))
+([permalink](https://jperkel.github.io/sciwridiversity2020/v/b01b88674ee70d987baf0f5bdc48919216496d35/))
 was automatically generated
-from [jperkel/sciwridiversity2020@7dc39cd](https://github.com/jperkel/sciwridiversity2020/tree/7dc39cde29dd68d72e95f83f2b9219869012fac0)
+from [jperkel/sciwridiversity2020@b01b886](https://github.com/jperkel/sciwridiversity2020/tree/b01b88674ee70d987baf0f5bdc48919216496d35)
 on October 26, 2020.
 </em></small>
 
@@ -101,6 +101,7 @@ Session link on Whova: [https://whova.com/portal/webapp/scien2_202010/Agenda/114
 
 Session organizers: [Jeffrey Perkel](https://twitter.com/j_perkel), [Clinton Parks](https://twitter.com/crparks3), [Ben Young Landis](https://twitter.com/younglandis)  
 Session moderators: [Steve Bien-Aimé](https://twitter.com/Steve_BienAime), [Rodrigo Pérez Ortega](https://twitter.com/rpocisv), [Kendall Powell](https://twitter.com/KendallSciWri), [Doris Truong](https://twitter.com/DorisTruong), [Kelly Tyrrell](https://twitter.com/kellyperil), [Wudan Yan](https://twitter.com/wudanyan), [Sarah Zielinski](https://twitter.com/SarahZielinski)  
+Featured speaker: [Adrienne LaFrance](https://twitter.com/AdrienneLaF), Executive Editor, _The Atlantic_.
 
 Click [here](https://jperkel.github.io/sciwridiversity2020/manuscript.pdf) for a PDF of this document. 
 
