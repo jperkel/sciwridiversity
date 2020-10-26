@@ -49,11 +49,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://jperkel.github.io/sciwridiversity2020/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://jperkel.github.io/sciwridiversity2020/v/79354286d1765e4d57007b8f74091193ad13fef9/" />
+  <link rel="alternate" type="text/html" href="https://jperkel.github.io/sciwridiversity2020/v/7dc39cde29dd68d72e95f83f2b9219869012fac0/" />
 
-  <meta name="manubot_html_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/79354286d1765e4d57007b8f74091193ad13fef9/" />
+  <meta name="manubot_html_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/7dc39cde29dd68d72e95f83f2b9219869012fac0/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/79354286d1765e4d57007b8f74091193ad13fef9/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/7dc39cde29dd68d72e95f83f2b9219869012fac0/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -85,9 +85,9 @@ title: 'Representation Matters: Better Writing Through Diversity'
 
 <small><em>
 This manuscript
-([permalink](https://jperkel.github.io/sciwridiversity2020/v/79354286d1765e4d57007b8f74091193ad13fef9/))
+([permalink](https://jperkel.github.io/sciwridiversity2020/v/7dc39cde29dd68d72e95f83f2b9219869012fac0/))
 was automatically generated
-from [jperkel/sciwridiversity2020@7935428](https://github.com/jperkel/sciwridiversity2020/tree/79354286d1765e4d57007b8f74091193ad13fef9)
+from [jperkel/sciwridiversity2020@7dc39cd](https://github.com/jperkel/sciwridiversity2020/tree/7dc39cde29dd68d72e95f83f2b9219869012fac0)
 on October 26, 2020.
 </em></small>
 
@@ -349,7 +349,7 @@ Two methods (not always successful):
 1. Cultivate go-to sources for fave topics who also bring diverse perspectives  
 2. Ask sources to point toward other experts + ask for Women, BIPOC, LGBTQ. Also ask the PIOs. They know who interviews well. Use your PIO resources!  
   
-A couple of resources for finding diverse sources:
+A couple of resources for finding diverse sources:  
 [500womenscientists.org](https://500womenscientists.org/)  
 [500queerscientists.com](https://500queerscientists.com/)  
   
@@ -425,7 +425,7 @@ When is it important to bring in diverse sources?
 
 A few good ways to find diverse scientists/avoid tokenism:  
 
-* Use Twitter lists, find the relevant hashtags, contact professional orgs like SACNAS or Society of Black Archaeologists to ask for a referral to experts in a specific area. If you need help, especially with Twitter lists, let me know! Robin Kazmier (@rokazmier)  
+* Use Twitter lists, find the relevant hashtags, contact professional orgs like SACNAS or Society of Black Archaeologists to ask for a referral to experts in a specific area. If you need help, especially with Twitter lists, let me know! Robin Kazmier (\@rokazmier)  
 * Find searchable databases like [Database of Diverse Databases](https://editorsofcolor.com/diverse-databases/).  
 * Use google site search to search databases even if they aren’t readily searchable.    
 * Be open to interviewing grad students if their experience is more aligned with the topic  

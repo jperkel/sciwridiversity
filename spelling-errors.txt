@@ -35,7 +35,7 @@ Kazmier
 kellyperil
 KendallSciWrite
 Landis
-Latinx
+LatinX
 LatinxChem
 LGBTQ
 LGBTQIA
@@ -66,7 +66,6 @@ Poynter
 Poynter’s
 QueerSci
 queerscientists
-rokazmier
 rpocisv
 SACNAS
 Saey
