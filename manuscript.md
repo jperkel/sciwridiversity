@@ -2,7 +2,7 @@
 author-meta: []
 bibliography:
 - content/manual-references.json
-date-meta: '2020-10-25'
+date-meta: '2020-10-26'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -21,9 +21,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Representation Matters: Better Writing Through Diversity" />
 
-  <meta name="dc.date" content="2020-10-25" />
+  <meta name="dc.date" content="2020-10-26" />
 
-  <meta name="citation_publication_date" content="2020-10-25" />
+  <meta name="citation_publication_date" content="2020-10-26" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -49,11 +49,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://jperkel.github.io/sciwridiversity2020/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://jperkel.github.io/sciwridiversity2020/v/02d95766f11045842121e47587dbb3f4b44d9177/" />
+  <link rel="alternate" type="text/html" href="https://jperkel.github.io/sciwridiversity2020/v/630e9cc4d8e2c4c5037c147f2d6c50bd378b0c5d/" />
 
-  <meta name="manubot_html_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/02d95766f11045842121e47587dbb3f4b44d9177/" />
+  <meta name="manubot_html_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/630e9cc4d8e2c4c5037c147f2d6c50bd378b0c5d/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/02d95766f11045842121e47587dbb3f4b44d9177/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/630e9cc4d8e2c4c5037c147f2d6c50bd378b0c5d/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -85,22 +85,24 @@ title: 'Representation Matters: Better Writing Through Diversity'
 
 <small><em>
 This manuscript
-([permalink](https://jperkel.github.io/sciwridiversity2020/v/02d95766f11045842121e47587dbb3f4b44d9177/))
+([permalink](https://jperkel.github.io/sciwridiversity2020/v/630e9cc4d8e2c4c5037c147f2d6c50bd378b0c5d/))
 was automatically generated
-from [jperkel/sciwridiversity2020@02d9576](https://github.com/jperkel/sciwridiversity2020/tree/02d95766f11045842121e47587dbb3f4b44d9177)
-on October 25, 2020.
+from [jperkel/sciwridiversity2020@630e9cc](https://github.com/jperkel/sciwridiversity2020/tree/630e9cc4d8e2c4c5037c147f2d6c50bd378b0c5d)
+on October 26, 2020.
 </em></small>
 
 
 
-As a follow-up to the opening plenary session [Whova link](https://whova.com/portal/webapp/scien2_202010/Agenda/1144504) (organized by Shraddha Chakradhar and Jenny Cutraro) at [ScienceWriters2020](https://sciencewriters2020.org), we invited attendees to brainstorm ideas for improving diversity in science reporting. Participants were randomly split into seven breakout rooms, each discussing one prompt. We asked them to populate Google documents with their best ideas, strategies and resources, which we have now compiled into a single resource for the science writing community. 
+As a follow-up to the opening plenary session ([Whova link](https://whova.com/portal/webapp/scien2_202010/Agenda/1144504)) organized by Shraddha Chakradhar and Jenny Cutraro at [ScienceWriters2020](https://sciencewriters2020.org), we invited attendees to brainstorm ideas for improving diversity in science reporting. Participants were randomly split into seven breakout rooms, each discussing one prompt. We asked them to populate Google documents with their best ideas, strategies and resources, which we have now compiled into a single resource for the science writing community. 
+
+**You can comment or suggest additional resources using the [Hypothesis commenting system](https://web.hypothes.is/). Click the 'h' icon at the upper-right to open the Hypothesis toolbar. Click [here](https://web.hypothes.is/start/) to create a Hypothesis account.**
 
 Session link on Whova: [https://whova.com/portal/webapp/scien2_202010/Agenda/1144496](https://whova.com/portal/webapp/scien2_202010/Agenda/1144496)
 
 Session organizers: [Jeffrey Perkel](https://twitter.com/j_perkel), [Clinton Parks](https://twitter.com/crparks3), [Ben Young Landis](https://twitter.com/younglandis)  
 Session moderators: [Steve Bien-Aimé](https://twitter.com/Steve_BienAime), [Rodrigo Pérez Ortega](https://twitter.com/rpocisv), [Kendall Powell](https://twitter.com/KendallSciWri), [Doris Truong](https://twitter.com/DorisTruong), [Kelly Tyrrell](https://twitter.com/kellyperil), [Wudan Yan](https://twitter.com/wudanyan), [Sarah Zielinski](https://twitter.com/SarahZielinski)  
 
-**Let us know if we've missed anything by clicking the 'h' icon at the top-right to open the [Hypothesis commenting system](https://web.hypothes.is/).**
+Click [here](https://jperkel.github.io/sciwridiversity2020/manuscript.pdf) for a PDF of this document. 
 
 
 ## Prompt 1: When does it make sense to specifically include diversity and representation angles of sources and subjects in stories?
@@ -369,7 +371,7 @@ Megan (also a PIO) runs into this problem, too.
 Tina Saey (reporter): Developing a diverse source list. She draws heavily from awards that go to scientists who are from diverse backgrounds + taking a look at conference speaker lists (those have headshots) and lots of conferences are pushing to include diverse people. And their expertise immediately pops out based on their talk’s title.  
 → Tina says here’s an example of the awards list she looks at: [https://www.hhmi.org/programs/hanna-h-gray-fellows-program#Fellows](https://www.hhmi.org/programs/hanna-h-gray-fellows-program#Fellows)   
 
-Carolyn Collin Petersen (freelancer + event organizer): Some scientists refuse to be on ‘manels’ until you get more women on the panel. Ask around with the nearby institutions.  
+Carolyn Collins Petersen (freelancer + event organizer): Some scientists refuse to be on ‘manels’ until you get more women on the panel. Ask around with the nearby institutions.  
 
 Matthew Francis (freelancer) uses Twitter to find diverse sources because scientists on Twitter tend to be more diverse but also because their threads allow you to “see” their voice and stances on things. He also uses a spreadsheet of sources in stories to keep himself accountable. If you are not reaching 50% women or whatever other target, then you aren’t there yet.
 
@@ -387,7 +389,7 @@ What to do when you encounter a reluctant source/or one who points you back to o
 * Karen McNulty Walsh (PIO at Brookhaven) used similar tactics to convince a woman researcher at her institution to be part of a brochure on that field. The researchers didn’t want to be the “token woman” but Karen convinced her that she is a leader in her field and deserved to be highlighted, plus if she didn’t participate, then there would be no women featured.  
 
 
-Marisol (PIO) says that PIOs really appreciate it when reporters are very specific in their requests about what type of source they are looking for. Don’t be shy about asking for a woman of color who could comment on TK.
+Marisol Martinez (PIO at JHU) says that PIOs really appreciate it when reporters are very specific in their requests about what type of source they are looking for. Don’t be shy about asking for a woman of color who could comment on TK.
 
 Dawn Levy (PIO at ORNL) agrees. Half of ORNL’s researchers are from other countries and there are a lot of international projects and teamwork. PIOs have gotten to know their people and they want to help you find those diverse sources.
 
@@ -395,41 +397,37 @@ Robin Kazmier (editor, PBS Nova) emphasized reassuring sources that you are seek
 
 ****
 
-Instead of seeking a diverse voice/perspective for just one quote or idea, consider writing the narrative around them. This might only be possible in the case of a longer feature, but if you can humanize the story and write more about that diverse person’s background, it might seem less like you are choosing them because they “check a box” of the diversity and more because they have a unique perspective to tell. Also, you can let the person know you sought them out because you were looking for someone with a different “lived experience”. (Brittany Uhlorn, science writer at UArizona)
+Brittany Uhlorn (science writer at University of Arizona): Instead of seeking a diverse voice/perspective for just one quote or idea, consider writing the narrative around them. This might only be possible in the case of a longer feature, but if you can humanize the story and write more about that diverse person’s background, it might seem less like you are choosing them because they “check a box” of the diversity and more because they have a unique perspective to tell. Also, you can let the person know you sought them out because you were looking for someone with a different “lived experience”.
 
 
-I organize science panels for local events (I’m a science writer and the event organizers have made me part of their organization team) and I had a scientist tell ME that he would not speak on my panel until I had at least 50 percent female (or further diversity) on the panel. It was a good push for me to look beyond my usual sources of speakers.  ([CC.petersen@gmail.com](mailto:CC.petersen@gmail.com) if you have questions about how we implement this)
+Carolyn Collins Petersen (producer, Loch Ness Productions): I organize science panels for local events. I’m a science writer and the event organizers have made me part of their organization team and I had a scientist tell ME that he would not speak on my panel until I had at least 50 percent female, or further diversity, on the panel. It was a good push for me to look beyond my usual sources of speakers.  
 
 
-I come from a unique background because I am new to science writing but have worked in science education for several years. One way to avoid tokenism in a future (ideal) world is to expand young people’s idea of what it means to be a scientist, so I started a nonprofit enrichment program that brings scientists in to speak to students. Like Matthew, I rely on spreadsheets to keep track of my search for diverse scientists! I also use photos on department websites and Twitter to help with my outreach. ([\@Blackafinstem](https://twitter.com/Blackafinstem) is a great account, for example)
+I come from a unique background because I am new to science writing but have worked in science education for several years. One way to avoid tokenism in a future, ideal world is to expand young people’s idea of what it means to be a scientist, so I started a nonprofit enrichment program that brings scientists in to speak to students. Like Matthew, I rely on spreadsheets to keep track of my search for diverse scientists! I also use photos on department websites and Twitter to help with my outreach. The Twitter account [\@BlackAFinStem](https://twitter.com/Blackafinstem) is a great account, for example.
 
 Also, when creating multimedia journalism pieces, it is really important to use a diversity of voice-over/narrators/interviewees.  In the same vein of “If she can see it, she can be it”, I want to make sure “if she can hear her own voice in a piece, she can BE it”.  
 → Yeah, make sure they know which “code” to “code switch into for the V/O” ? Or at least have a dialogue about that, because the default “scientist speak” is very much a white dialect?  
 
-* Good point. I usually ask people to give it very “conversationally” and we rehearse a bit ahead of time so that I can head some of that off at the pass (so to speak).
+* Good point. I usually ask people to give it very “conversationally” and we rehearse a bit ahead of time so that I can head some of that off at the pass.
 
 Make sure to highlight diverse voices throughout the year, not just during particular celebration months.  
-Yes! It is exhausting as an LGBT scientist, to always be sought out during June (Pride month)   
+* ^^Yes! It is exhausting as an LGBT scientist, to always be sought out during June (Pride month).   
 
 Would it help for institutions to have photos of scientists in their directories or does that encourage tokenism?
 
-* ^^Good question. I think that because the Twitter lists of scis of color are somewhat limited, a lot of times the same few scientists get asked for quotes over and over?
-    * ^^I would say that yes, it would help to have photos in directories. Everytime I start to prep for interviews, I am doing Google searches for scientists, which usually includes their images and I can use that to factor into my searches for a broad range of voices on topics.  It’s obviously not the SOLE way of including diverse voices, but another piece of data.
+* ^^Good question. I think that because the Twitter lists of scientists of color are somewhat limited, a lot of times the same few scientists get asked for quotes over and over?
+    * ^^I would say that yes, it would help to have photos in directories. Everytime I start to prepare for interviews, I am doing Google searches for scientists, which usually includes their images and I can use that to factor into my searches for a broad range of voices on topics.  It’s obviously not the SOLE way of including diverse voices, but another piece of data.
     * --I love when departmental websites have photos on their faculty list page with at least keywords as to their expertise--it makes it really easy to go from topic to relevant source.
 
 
 When is it important to bring in diverse sources?  
 → When an ecology story is set in another country, definitely include people from that country! (i.e. If you’re writing re: lemurs, def try to include Malagasy scientists as sources)
 
-Perhaps Der Spiegel could take a few lessons from this test; vis-a-vis their interview with Andrea Ghez’s co-winner of the Nobel.  
-Oh god yes I have a rant in progress on that Genzel interview………  
-Yup. I was seeing red after that mess.  
-
 A few good ways to find diverse scientists/avoid tokenism:  
 
-* Use Twitter lists, find the relevant hashtags, contact professional orgs like SACNAS or Society of Black Archaeologists to ask for a referral to experts in a specific area. If you need help, especially with Twitter lists, let me know! Robin: [robin_kazmier@wgbh.org](mailto:robin_kazmier@wgbh.org)  
+* Use Twitter lists, find the relevant hashtags, contact professional orgs like SACNAS or Society of Black Archaeologists to ask for a referral to experts in a specific area. If you need help, especially with Twitter lists, let me know! Robin Kazmier (@rokazmier)  
 * Find searchable databases like [Database of Diverse Databases](https://editorsofcolor.com/diverse-databases/).  
-* Use google site search to search databases evem of they aren’t readily searchable, like [500 Queer Scientists](https://500queerscientists.com/).    
+* Use google site search to search databases even if they aren’t readily searchable.    
 * Be open to interviewing grad students if their experience is more aligned with the topic  
 * Include multiple underrepresented voices in stories; normalize diverse perspectives  
 * Use these strategies to get in the habit of having multiple underrepresented sources in every single story. Once you know where to look it’s not that hard to find people.  
@@ -486,6 +484,12 @@ PIO from JHU says that even when she publishes stories about health inequities, 
 
 Others chimed in that it’s possible writers don’t know how to tackle these stories with clarity / nuance, and they risk saying something insensitive or off-base during the interview. Someone said that these stories seem touchier -- “how can I convey this information without being offensive, or should I just not cover it at all?” 
 
+Several attendees commented on the idea of "sensitivity readers":  
+* "I think one big step is knowing what you don’t know, and when you need to hire a sensitivity reader (or possibly revise your institution’s style guide)."  
+* "I think of a sensitivity reader as someone who knows all the latest style guide updates and can turn a careful and thoughtful eye to your copy and see places that might be problematic."  
+* "I’d argue that you need to have multiple sensitivity readers available. For instance, I wouldn’t necessarily expect a Black sensitivity reader to be the authority on LGBTQ+ issues and language."  
+* "I’ve had sub-editors change “disabled scientist” to “scientist with disabilities” when the former was direct from the scientist I interviewed"  
+
 When covering people affected by social justice issues: It’s challenging to get people to find people to speak on the record without being triggered. 
 
 Sometimes folks want to stay anonymous, but anonymous sources may impact credibility of a piece.
@@ -494,62 +498,15 @@ It may be helpful to look at these issues from a sociological point of view: why
 
 Freelancers writing about social justice issues are not always confident that their editors are trained to recognize the sensitivity that social justice stories may need during editing. 
 
-TLDR: Would be helpful to have resources on NASW, for instance, that provides guidance on how to cover social justice issues as a writer, and how to navigate editing social justice stories as an editor. 
+TL,DR: Would be helpful to have resources on NASW, for instance, that provides guidance on how to cover social justice issues as a writer, and how to navigate editing social justice stories as an editor. 
 
 *****
 
-**From chat:**  
-**cassandrawillyard**: I’ve used anonymous sources or only first names, but it’s tricky and standards do depend on the outlet.
+**Useful resources from the discussion**
+Dart Center for Journalism and Trauma [resources for interviewing](https://dartcenter.org/resources?page=1&topic%5B0%5D=76)
 
-**Wudan Yan (she/her)**: I’m striking out! B/c there are so many, but there’s a lot of good stuff here: [https://dartcenter.org/resources?page=1&topic%5B0%5D=76](https://dartcenter.org/resources?page=1&topic%5B0%5D=76) 
+[Picture a Scientist](https://www.pictureascientist.com/)
 
-**Spoorthy**: Picture a scientist is so moving! Very thought provoking! Great job at that!
-
-**WaunShae Blount**: I agree Spoorthy!
-
-**Spoorthy**: Thanks everyone on your inputs to my thoughts!
-
-**Lisa Munoz**: Thank you! I will tell the film team it came up and they will be thrilledWe are working to bring the film to more NASW members too
-
-**Calley Jones**: Is there a strong role for publications which are specifically geared for the intersection between science and social issues (i.e. Undark)? Does this idea promote stories that reflect on these topics, or does it sequester them to their own areas?
-
-**Brandie Jefferson (she|her)**: did I miss the google doc link?
-
-**Spoorthy**: Please do \@Lisa, I watched it last week as part of UKSCJ
-
-**Brandie Jefferson (she|her)**: Oh wow, I didn’t even know that was a thingQ
-
-**Meg Evans Smith**: me neither — that’s pretty cool.
-
-**Brandie Jefferson (she|her)**: omg
-
-**Sally James**: My black-owned nonprofit has great editors, but they don't have budget for extensive editing.  Plus, in cultural terms, I think the sensitivity does not cross all boundaries, so different sensitivity for Latinx than Black?
-
-**Natalie Rogers**: Yeah that’s a big yikes
-
-**WaunShae Blount**: Lisa- That's awesome! Such a touching and striking view of women in science and how we may be viewed. I appreciate the dialogue the documentary promoted and how open the speakers were.
-
-**Melissa Hellman (she/her)**: I think one big step is knowing what you don’t know, and when you need to hire a sensitivity reader (or possibly revise your institution’s style guide).
-
-**Sally James**: hate idea that the burden would fall on people of color to volunteer for others
-
-**Meg Evans Smith**: Is it naive to suggest that some sort of living style manual could help out with sensitivity in different kinds of writing?
-
-**cassandrawillyard**: I think of a sensitivity reader as someone who knows all the latest style guide updates and can turn a careful and thoughtful eye to your copy and see places that might be problematic.
-
-**Natalie Rogers**: I like that idea Meg but it presents the same problem—who would do that?
-
-**Meg Evans Smith**: true.
-
-**cassandrawillyard**: But then there are people who prefer “autistic person” so it’s complex.
-
-**Brandie Jefferson (she|her)**: Exactly Cassaundra, that’s what I’m wondering abouyt
-
-**Melissa Hellman (she/her)**: I’d argue that you need to have multiple sensitivity readers available. For instance, I wouldn’t necessarily expect a Black sensitivity reader to be the authority on LGBTQ+ issues and language.
-
-**Wudan Yan (she/her)**: yeah definitely cassandra!
-
-**Giuliana Viglione**: Yep +1 to Cassandra. I’ve had sub-editors change “disabled scientist” to “scientist with disabilities” when the former was direct from the scientist I interviewed
 
 ## Additional resources
 
