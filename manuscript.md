@@ -49,11 +49,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://jperkel.github.io/sciwridiversity2020/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://jperkel.github.io/sciwridiversity2020/v/630e9cc4d8e2c4c5037c147f2d6c50bd378b0c5d/" />
+  <link rel="alternate" type="text/html" href="https://jperkel.github.io/sciwridiversity2020/v/1dd3f408cfbcbdf64e9ed13b130d5455d4a5e372/" />
 
-  <meta name="manubot_html_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/630e9cc4d8e2c4c5037c147f2d6c50bd378b0c5d/" />
+  <meta name="manubot_html_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/1dd3f408cfbcbdf64e9ed13b130d5455d4a5e372/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/630e9cc4d8e2c4c5037c147f2d6c50bd378b0c5d/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://jperkel.github.io/sciwridiversity2020/v/1dd3f408cfbcbdf64e9ed13b130d5455d4a5e372/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -85,9 +85,9 @@ title: 'Representation Matters: Better Writing Through Diversity'
 
 <small><em>
 This manuscript
-([permalink](https://jperkel.github.io/sciwridiversity2020/v/630e9cc4d8e2c4c5037c147f2d6c50bd378b0c5d/))
+([permalink](https://jperkel.github.io/sciwridiversity2020/v/1dd3f408cfbcbdf64e9ed13b130d5455d4a5e372/))
 was automatically generated
-from [jperkel/sciwridiversity2020@630e9cc](https://github.com/jperkel/sciwridiversity2020/tree/630e9cc4d8e2c4c5037c147f2d6c50bd378b0c5d)
+from [jperkel/sciwridiversity2020@1dd3f40](https://github.com/jperkel/sciwridiversity2020/tree/1dd3f408cfbcbdf64e9ed13b130d5455d4a5e372)
 on October 26, 2020.
 </em></small>
 
@@ -485,6 +485,7 @@ PIO from JHU says that even when she publishes stories about health inequities, 
 Others chimed in that it’s possible writers don’t know how to tackle these stories with clarity / nuance, and they risk saying something insensitive or off-base during the interview. Someone said that these stories seem touchier -- “how can I convey this information without being offensive, or should I just not cover it at all?” 
 
 Several attendees commented on the idea of "sensitivity readers":  
+
 * "I think one big step is knowing what you don’t know, and when you need to hire a sensitivity reader (or possibly revise your institution’s style guide)."  
 * "I think of a sensitivity reader as someone who knows all the latest style guide updates and can turn a careful and thoughtful eye to your copy and see places that might be problematic."  
 * "I’d argue that you need to have multiple sensitivity readers available. For instance, I wouldn’t necessarily expect a Black sensitivity reader to be the authority on LGBTQ+ issues and language."  

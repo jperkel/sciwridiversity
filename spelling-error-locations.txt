@@ -181,7 +181,7 @@ content/08.prompt07.md:2:Yan
 content/08.prompt07.md:4:JHU
 content/08.prompt07.md:4:PIO
 content/08.prompt07.md:4:POC
-content/08.prompt07.md:11:LGBTQ
-content/08.prompt07.md:22:NASW
+content/08.prompt07.md:12:LGBTQ
+content/08.prompt07.md:23:NASW
 content/90.back-matter.md:23:cjr
 content/90.back-matter.md:23:CJR
